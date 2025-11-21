@@ -1,4 +1,4 @@
-# Chandigarh University Replica (Next.js + Tailwind)
+# Shivalik College Demo (Next.js + Tailwind)
 
 This workspace recreates the public marketing experience of [https://www.cuchd.in](https://www.cuchd.in) inside a fully static Next.js (App Router) project. Every page, section, and dynamic route is powered by structured JSON so content editors can scale the experience without touching React components.
 
