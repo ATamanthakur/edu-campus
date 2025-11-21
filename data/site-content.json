@@ -1,7 +1,7 @@
 {
   "navigation": {
     "logo": {
-      "light": "https://shivalikcollege.edu.in/wp-content/uploads/2024/11/shivaliklogowordpress-300x132.png",
+      "light": "/img/shivalik_logo.png",
       "dark": "https://shivalikcollege.edu.in/wp-content/uploads/2024/11/shivaliklogowordpress-300x132.png"
     },
     "topBar": {
@@ -135,7 +135,7 @@
         {
           "id": "hero",
           "type": "hero",
-          "eyebrow": "Best Private College in Dehradun",
+          "eyebrow": "Best Private College in Uttarakhand",
           "title": "An illustrious legacy we continue to shape",
           "description": "Ranked #36 in India (NIRF Overall 2024) with 100,000+ alumni placed across 65 countries. Experience a multi-disciplinary campus powered by research and industry collaborations.",
           "backgroundImage": "https://www.cuchd.in/latest-assets/img/banner-2025.webp",
@@ -145,8 +145,8 @@
             { "label": "Times Higher Education", "value": "Top 170 Asia" }
           ],
           "ctas": [
-            { "label": "Apply for CUCET 2026", "href": "https://cucet.cuchd.in", "style": "primary" },
-            { "label": "Download Prospectus", "href": "https://www.cuchd.in/includes/assets/pdf/CU-Prospectus.pdf", "style": "secondary" }
+            { "label": "Apply for CUCET 2026", "href": "", "style": "primary" },
+            { "label": "Download Prospectus", "href": "", "style": "secondary" }
           ],
           "gallery": [
             { "src": "https://www.cuchd.in/latest-assets/img/akshay-inset-bg.webp", "alt": "Akshay visits CU" },

@@ -14,7 +14,7 @@ const geistSans = Geist({ subsets: ["latin"], variable: "--font-geist-sans" });
 const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono" });
 
 export const metadata: Metadata = {
-  title: "Shivalik College • Next.js replica",
+  title: "Shivalik College - Best Private College in Uttarakhand",
   description:
     "A Next.js + Tailwind CSS replica of https://www.cuchd.in powered entirely by JSON-authored content blocks.",
   metadataBase: new URL("https://www.cuchd.in"),

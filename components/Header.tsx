@@ -565,7 +565,7 @@ export function Header({ navigation }: HeaderProps) {
                     alt="Shivalik College of Engineering"
                     width={190}
                     height={54}
-                    className="h-auto w-auto drop-shadow"
+                    className="drop-shadow"
                   />
                 </Link>
                 <nav
