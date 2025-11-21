@@ -14,15 +14,15 @@ const geistSans = Geist({ subsets: ["latin"], variable: "--font-geist-sans" });
 const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono" });
 
 export const metadata: Metadata = {
-  title: "Chandigarh University • Next.js replica",
+  title: "Shivalik College • Next.js replica",
   description:
     "A Next.js + Tailwind CSS replica of https://www.cuchd.in powered entirely by JSON-authored content blocks.",
   metadataBase: new URL("https://www.cuchd.in"),
   openGraph: {
-    title: "Chandigarh University",
+    title: "Shivalik College",
     description: "Best Private University in Punjab with 2056 indexed public pages.",
     url: "https://www.cuchd.in",
-    siteName: "Chandigarh University",
+    siteName: "Shivalik College",
   },
 };
 

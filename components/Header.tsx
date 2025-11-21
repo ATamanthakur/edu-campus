@@ -562,7 +562,7 @@ export function Header({ navigation }: HeaderProps) {
                 <Link href="/" className="flex items-center gap-3">
                   <Image
                     src={logoSrc}
-                    alt="Chandigarh University"
+                    alt="Shivalik College of Engineering"
                     width={190}
                     height={54}
                     className="h-auto w-auto drop-shadow"

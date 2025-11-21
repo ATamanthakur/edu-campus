@@ -5,28 +5,28 @@
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <title>Best Private University in Punjab, North India (India) - Chandigarh University</title>
+    <title>Best Private University in Punjab, North India (India) - Shivalik College</title>
     <meta name="google-site-verification" content="aPb2vfuPrXOInYhfeZkSQDje5ycpduVayCdBC5eYKQo" />
     <meta name="description"
-        content="Chandigarh University, Punjab (CU) is India's best university in Punjab, North India offers various Undergraduate and Postgraduate Courses like Engineering, B.tech, BCA, BBA, HMCT, B.Com, LLB, B.Arch, MBA, M.Tech and MCA." />
+        content="Shivalik College, Punjab (CU) is India's best university in Punjab, North India offers various Undergraduate and Postgraduate Courses like Engineering, B.tech, BCA, BBA, HMCT, B.Com, LLB, B.Arch, MBA, M.Tech and MCA." />
     <meta name="keywords"
-        content="Best university in india, best university in punjab, universities in punjab, Chandigarh University Panjab, Chandigarh University India, ugc recognized university, cu, chandigarh university" />
-    <meta name="Author" content="Chandigarh University, Punjab" />
+        content="Best university in india, best university in punjab, universities in punjab, Shivalik College Panjab, Shivalik College India, ugc recognized university, cu, Shivalik College" />
+    <meta name="Author" content="Shivalik College, Punjab" />
     <meta name="robots" content="INDEX, FOLLOW" />
     <link rel="canonical" href="https://www.cuchd.in/" />
     <link rel="dns-prefetch" href="https://www.cuchd.in">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Best Private University in Punjab, North India (India) - Chandigarh University">
+    <meta property="og:title" content="Best Private University in Punjab, North India (India) - Shivalik College">
     <meta property="og:image" content="https://www.cuchd.in/twitter-og-image.jpg" />
     <meta property="og:description"
-        content="Chandigarh University, Punjab (CU) is India's best university in Punjab, North India offers various Undergraduate and Postgraduate Courses like Engineering, B.tech, BCA, BBA, HMCT, B.Com, LLB, B.Arch, MBA, M.Tech and MCA.">
+        content="Shivalik College, Punjab (CU) is India's best university in Punjab, North India offers various Undergraduate and Postgraduate Courses like Engineering, B.tech, BCA, BBA, HMCT, B.Com, LLB, B.Arch, MBA, M.Tech and MCA.">
     <meta property="og:url" content="https://www.cuchd.in/" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description"
-        content="Chandigarh University, Punjab (CU) is India's best university in Punjab, North India offers various Undergraduate and Postgraduate Courses like Engineering, B.tech, BCA, BBA, HMCT, B.Com, LLB, B.Arch, MBA, M.Tech and MCA." />
+        content="Shivalik College, Punjab (CU) is India's best university in Punjab, North India offers various Undergraduate and Postgraduate Courses like Engineering, B.tech, BCA, BBA, HMCT, B.Com, LLB, B.Arch, MBA, M.Tech and MCA." />
     <meta name="twitter:title"
-        content="Best Private University in Punjab, North India (India) - Chandigarh University" />
+        content="Best Private University in Punjab, North India (India) - Shivalik College" />
     <meta name="twitter:image" content="https://www.cuchd.in/twitter-og-image.jpg" />
     <meta name="twitter:site" content="@Chandigarh_Uni" />
     <meta name="alexaVerifyID" content="Rhb7O6OJobh6aurPSVuGLTBHEjU" />
@@ -130,7 +130,7 @@
         {
             "@context": "https://schema.org",
             "@type": "CollegeOrUniversity",
-            "name": "Chandigarh University",
+            "name": "Shivalik College",
             "alternateName": "CU",
             "url": "https://www.cuchd.in",
             "logo": "https://www.cuchd.in/includes/assets/images/header-footer/cu-logo-white.webp",
@@ -627,37 +627,37 @@
                 </ul>
                 <ul class="header__top-right social-sub w-auto d-flex list-unstyled p-0 m-0 align-items-center">
                     <li><a rel="nofollow" href="https://www.facebook.com/chandigarhuniversitygharuan" target="_blank"
-                            aria-label="Go to Chandigarh University's Facebook Page"><i
+                            aria-label="Go to Shivalik College's Facebook Page"><i
                                 class="fa-brands fa-facebook-f"></i></a></li>
 
                     <li><a rel="nofollow" href="https://www.twitter.com/chandigarh_uni" target="_blank"
-                            aria-label="Go to Chandigarh University's Twitter (X) Page">
+                            aria-label="Go to Shivalik College's Twitter (X) Page">
                             <i class="fa-brands fa-x-twitter"></i></a></li>
 
                     <li><a rel="nofollow" href="https://www.linkedin.com/school/chandigarh-university/" target="_blank"
-                            aria-label="Go to Chandigarh University's Linkedin Page"><i
+                            aria-label="Go to Shivalik College's Linkedin Page"><i
                                 class="fa-brands fa-linkedin-in"></i></a></li>
 
                     <li><a rel="nofollow" href="https://www.instagram.com/chandigarhuniversity" target="_blank"
-                            aria-label="Go to Chandigarh University's Instagram Page"><i
+                            aria-label="Go to Shivalik College's Instagram Page"><i
                                 class="fa-brands fa-instagram"></i></a></li>
 
                     <li><a rel="nofollow" href="https://www.youtube.com/user/chandigarhuniversity" target="_blank"
-                            aria-label="Go to Chandigarh University's Youtube Page"><i
+                            aria-label="Go to Shivalik College's Youtube Page"><i
                                 class="fa-brands fa-youtube"></i></a></li>
 
                     <li><a rel="nofollow" href="https://www.threads.net/@chandigarhuniversity" target="_blank"
-                            aria-label="Go to Chandigarh University's Threads Page">
+                            aria-label="Go to Shivalik College's Threads Page">
                             <i class="fa-brands fa-threads"></i></a></li>
                 </ul>
             </div>
         </div>
         <div class="navbar-brand p-0 mt-0">
             <div class="d-flex align-items-center">
-                <a href="https://www.cuchd.in/" aria-label="Go to Chandigarh University's Home Page" class="white-logo">
+                <a href="https://www.cuchd.in/" aria-label="Go to Shivalik College's Home Page" class="white-logo">
                     <img src="includes/assets/images/header-footer/cu-logo-white.webp" alt="" width="210" class="me-2 cu-logo">
                 </a>
-                <a href="https://www.cuchd.in/" aria-label="Go to Chandigarh University's Home Page" class="dark-logo">
+                <a href="https://www.cuchd.in/" aria-label="Go to Shivalik College's Home Page" class="dark-logo">
                     <img src="includes/assets/images/header-footer/cu-logo-dark-new.webp" alt="" width="210" class="me-2 cu-logo">
                 </a>
             </div>
@@ -678,7 +678,7 @@
                 <ul class="header__top-right w-auto d-flex list-unstyled p-0 m-0 align-items-center">
                     <li class="head-search m-0">
                         <a href="javascript:void(0);" id="search-page-mob" data-bs-toggle="modal"
-                            data-bs-target="#exampleModal" aria-label="Search Chandigarh University Website"
+                            data-bs-target="#exampleModal" aria-label="Search Shivalik College Website"
                             class="text-white m-0"><i class="fa fa-search"
                                 aria-hidden="true"></i><span>Search</span></a>
                     </li>
@@ -688,7 +688,7 @@
         <nav class="navbar navbar-expand-xl" data-lenis-prevent-wheel>
 
             <div class="mobileNavHeader d-none">
-                <a href="https://www.cuchd.in/" aria-label="Go to Chandigarh University's Home Page">
+                <a href="https://www.cuchd.in/" aria-label="Go to Shivalik College's Home Page">
                     <img src="includes/assets/images/header-footer/cu-logo-dark-new.webp" alt="" width="180" class="me-2 cu-logo">
                 </a>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -750,7 +750,7 @@
                             <ul class="header__top-right w-auto d-flex list-unstyled p-0 m-0 align-items-center">
                                 <li class="head-search">
                                     <a href="javascript:void(0);" id="search-page-mob" data-bs-toggle="modal"
-                                        data-bs-target="#exampleModal" aria-label="Search Chandigarh University Website"
+                                        data-bs-target="#exampleModal" aria-label="Search Shivalik College Website"
                                         class="text-white"><i class="fa fa-search"
                                             aria-hidden="true"></i><span>Search</span></a>
                                 </li>
@@ -826,7 +826,7 @@
                                         <div class="col-md-4 about-graphic d-none d-lg-block lazy-bg"
                                             style="background: url('includes/assets/images/header-footer/lazy-about-dd-image.webp'); margin: -20px -20px -20px 20px;  background-size: cover;" data-bg="includes/assets/images/header-footer/about-dd-image.webp">
                                             <div class="drop-down-graphic position-relative h-100">
-                                                <h3>Chandigarh University <span>Best Educational</span> Institution</h3>
+                                                <h3>Shivalik College <span>Best Educational</span> Institution</h3>
                                                 <div class="dd-graphic-cont position-absolute bottom-0">
                                                     <div class="row g-0">
                                                         <div class="col-6 p-2 py-3 d-flex">
@@ -2757,7 +2757,7 @@
                             <div class="heroSlider__content">
                                 <h1 class="position-relative"><span>Best Private</span> University <br>in Punjab (India)</h1>
                                 <div class="ps-67">
-                                    <p>Chandigarh University integrates groundbreaking research and inclusive education to
+                                    <p>Shivalik College integrates groundbreaking research and inclusive education to
                                             shape professionals driving innovation, sustainability, and social impact.</p>
                                     <div class="btn-grp">
                                         <a href="https://cucet.cuchd.in/index.aspx?utm_source=Website&utm_medium=cuchd"
@@ -2852,7 +2852,7 @@
                         <div class="col-md-6 order-first order-sm-last">
                             <div class="heroBannerForm__form ms-auto">
                                 <div class="heroBannerForm-header">
-                                    <h3 class="mb-0">Apply Today for <span>Chandigarh University</span></h3>
+                                    <h3 class="mb-0">Apply Today for <span>Shivalik College</span></h3>
                                     <style>
     .end_date {
         background: #e4363d;
@@ -2976,7 +2976,7 @@
                                         data-bg="latest-assets/img/topHighlights-cm-yogi.webp">
                                         <div class="card-body p-0 d-flex justify-content-end">
                                             <div class="nw-cont">
-                                                <h6>India’s First AI Augmented Multidisciplinary Chandigarh University's Uttar Pradesh Campus Inaugurated by UP Chief Minister Yogi Adityanath</h6>
+                                                <h6>India’s First AI Augmented Multidisciplinary Shivalik College's Uttar Pradesh Campus Inaugurated by UP Chief Minister Yogi Adityanath</h6>
                                                 <p>Uttar Pradesh Chief Minister Yogi Adityanath inaugurated the Next Generation Futuristic Campus of the country’s ...</p>
                                                 <a href="https://news.cuchd.in/2025/08/indias-first-ai-augmented.html" class="btn btn-primary btn-hoverEffect" target="_blank">Read More <img data-src="latest-assets/img/right-arrow-btn.webp" alt="Button Arrow" width="16" class="lazy-img ms-2"></a>
                                             </div>
@@ -2994,7 +2994,7 @@
                                         data-bg="latest-assets/img/topHighlights-campus-tank.webp">
                                         <div class="card-body p-0 d-flex justify-content-end">
                                             <div class="nw-cont">
-                                                <h6>Chandigarh University Launches ‘Campus Tank’ in Collaboration with Apna &amp; Venture Catalysts to Empower India’s Next-Gen Entrepreneurs</h6>
+                                                <h6>Shivalik College Launches ‘Campus Tank’ in Collaboration with Apna &amp; Venture Catalysts to Empower India’s Next-Gen Entrepreneurs</h6>
                                                 <p>To empower India’s next generation of startup founders, Apna, which is India’s largest early talent platform trusted by 6 crore+ ...</p>
                                                 <a href="https://news.cuchd.in/2025/07/chandigarh-university-launches-campus.html" class="btn btn-primary btn-hoverEffect" target="_blank">Read More <img data-src="latest-assets/img/right-arrow-btn.webp" alt="Button Arrow" width="16" class="lazy-img ms-2"></a>
                                             </div>
@@ -3012,7 +3012,7 @@
                                         data-bg="latest-assets/img/topHighlights-adobe.webp">
                                         <div class="card-body p-0 d-flex justify-content-end">
                                             <div class="nw-cont">
-                                                <h6>Global Giant Adobe Establishes India’s First Express Lounge at Chandigarh University</h6>
+                                                <h6>Global Giant Adobe Establishes India’s First Express Lounge at Shivalik College</h6>
                                                 <p>The Adobe Express Lounge will cater to a wide range of students from Engineering (Computer Science, AI/ML, IT), Media &amp; Communication ...</p>
                                                 <a href="https://news.cuchd.in/2025/08/global-giant-adobe-establishes-indias.html" class="btn btn-primary btn-hoverEffect" target="_blank">Read More <img data-src="latest-assets/img/right-arrow-btn.webp" alt="Button Arrow" width="16" class="lazy-img ms-2"></a>
                                             </div>
@@ -3030,8 +3030,8 @@
                                         data-bg="latest-assets/img/topHighlights-cucet-toppers.webp">
                                         <div class="card-body p-0 d-flex justify-content-end">
                                             <div class="nw-cont">
-                                                <h6>Chandigarh University Felicitates 2,516 CUCET Toppers; Offers Scholarships up to 100% at CU Scholars’ Summit 2025</h6>
-                                                <p>In a major push toward making world-class education accessible and reducing student dropouts, Chandigarh University inaugurated ...</p>
+                                                <h6>Shivalik College Felicitates 2,516 CUCET Toppers; Offers Scholarships up to 100% at CU Scholars’ Summit 2025</h6>
+                                                <p>In a major push toward making world-class education accessible and reducing student dropouts, Shivalik College inaugurated ...</p>
                                                 <a href="https://news.cuchd.in/2025/06/chandigarh-university-felicitates-2516.html" class="btn btn-primary btn-hoverEffect" target="_blank">Read More <img data-src="latest-assets/img/right-arrow-btn.webp" alt="Button Arrow" width="16" class="lazy-img ms-2"></a>
                                             </div>
                                         </div>
@@ -3080,7 +3080,7 @@
                                         <div class="card-body p-0 d-flex justify-content-end">
                                             <div class="nw-cont">
                                                 <h6>CU Becomes India's First Private University to Win the MAKA Trophy</h6>
-                                                <p>This historic achievement marks a significant milestone for Chandigarh University as it continues to inspire young athletes ...</p>
+                                                <p>This historic achievement marks a significant milestone for Shivalik College as it continues to inspire young athletes ...</p>
                                                 <a href="https://news.cuchd.in/2025/01/cu-makes-history-becomes-indias-first.html" class="btn btn-primary btn-hoverEffect" target="_blank">Read More <img data-src="latest-assets/img/right-arrow-btn.webp" alt="Button Arrow" width="16" class="lazy-img ms-2"></a>
                                             </div>
                                         </div>
@@ -3118,7 +3118,7 @@
                                             <div class="nw-cont">
                                                 <h6>President Droupadi Murmu Confers Arjuna Award on CU's Hockey Sensation
                                                 Sanjay Kumar</h6>
-                                                <p>Sanjay, a prominent member of India’s Hockey Team and Chandigarh University student, was conferred the prestigious Arjuna ...</p>
+                                                <p>Sanjay, a prominent member of India’s Hockey Team and Shivalik College student, was conferred the prestigious Arjuna ...</p>
                                                 <a href="https://news.cuchd.in/2025/01/president-droupadi-murmu-confers-arjuna.html" class="btn btn-primary btn-hoverEffect" target="_blank">Read More <img data-src="latest-assets/img/right-arrow-btn.webp" alt="Button Arrow" width="16" class="lazy-img ms-2"></a>
                                             </div>
                                         </div>
@@ -3136,8 +3136,8 @@
                                         <div class="card-body p-0 d-flex justify-content-end">
                                             <div class="nw-cont">
                                                 <h6>Aman Gupta Inspires at IGNITE 2024: A Celebration of Innovation and
-                                                Entrepreneurship at Chandigarh University!</h6>
-                                                <p>Chandigarh University officially launched IGNITE 2024, bringing together entrepreneurs, students, alumni, and faculty to ...</p>
+                                                Entrepreneurship at Shivalik College!</h6>
+                                                <p>Shivalik College officially launched IGNITE 2024, bringing together entrepreneurs, students, alumni, and faculty to ...</p>
                                                 <a href="https://www.facebook.com/chandigarhuniversitygharuan/posts/pfbid028kXhVD22Xt2pFMMBE5aCf1QQaY9KD1Pf3LYe4NBydhCAksoKGsiXAngGFq8T1x63l" class="btn btn-primary btn-hoverEffect" target="_blank" rel="nofollow">Read More <img data-src="latest-assets/img/right-arrow-btn.webp" alt="Button Arrow" width="16" class="lazy-img ms-2"></a>
                                             </div>
                                         </div>
@@ -3193,7 +3193,7 @@
                                         <div class="card-body p-0 d-flex justify-content-end">
                                             <div class="nw-cont">
                                                 <h6>A Glance at Unforgettable Highlights and Career Triumphs</h6>
-                                                <p>Chandigarh University's prodigious performance in the higher education sphere has been crucial in capturing over ...</p>
+                                                <p>Shivalik College's prodigious performance in the higher education sphere has been crucial in capturing over ...</p>
                                                 <a href="https://www.cuchd.in/placements/placement-day.php" class="btn btn-primary btn-hoverEffect" target="_blank">Read More <img data-src="latest-assets/img/right-arrow-btn.webp" alt="Button Arrow" width="16" class="lazy-img ms-2"></a>
                                             </div>
                                         </div>
@@ -3212,7 +3212,7 @@
                                             <div class="nw-cont">
                                                 <h6>Aerospace Engineering Students patent the Revolutionary Gravity-Based
                                                 Energy Model</h6>
-                                                <p>In a significant breakthrough for sustainable energy, two aeronautical engineering students from Chandigarh University...</p>
+                                                <p>In a significant breakthrough for sustainable energy, two aeronautical engineering students from Shivalik College...</p>
                                                 <a href="https://news.cuchd.in/2024/11/aerospace-engineering-students-develop.html" class="btn btn-primary btn-hoverEffect" target="_blank">Read More <img data-src="latest-assets/img/right-arrow-btn.webp" alt="Button Arrow" width="16" class="lazy-img ms-2"></a>
                                             </div>
                                         </div>
@@ -4102,7 +4102,7 @@
     <section class="cuFeatures-section pt-115 pb-115 position-relative">
         <div class="container">
             <div class="mainHeading position-relative" data-aos="fade-up" data-aos-duration="500">
-                <h2><span>Why Should You Choose</span><br> Chandigarh University?</h2>
+                <h2><span>Why Should You Choose</span><br> Shivalik College?</h2>
             </div>
             <div class="px-188 px-1399"> 
                 <div role="list" class="key-figures-wrapper">
@@ -4448,7 +4448,7 @@
                                         <div class="nw-content">
                                             <span class="nw-date">April 11 | Competition</span>
                                             <a class="str-link" href="https://news.cuchd.in/2025/04/cu-campus-ambassadors-secure-1st-runner.html" target="_blank">CU Campus Ambassadors Secure 1st Runner-Up at LinkedIn Dragon's Den</a>
-                                            <span class="nw-tag">Chandigarh University</span>
+                                            <span class="nw-tag">Shivalik College</span>
                                         </div>
                                     </div>
                                 </div>                                
@@ -4463,7 +4463,7 @@
                                         <div class="nw-content">
                                             <span class="nw-date">Aug 18 | Sports</span>
                                             <a class="str-link" href="https://www.facebook.com/photo/?fbid=1187403846757214&set=a.550295523801386" target="_blank" rel="nofollow">CU students clinched Bronze at the Asia Rugby Emirate U20 Sevens Championship</a>
-                                            <span class="nw-tag">Chandigarh University</span>
+                                            <span class="nw-tag">Shivalik College</span>
                                         </div>
                                     </div>
                                 </div>                                
@@ -4478,7 +4478,7 @@
                                         <div class="nw-content">
                                             <span class="nw-date">Sep 01 | Campus Tank</span>
                                             <a class="str-link" href="https://news.cuchd.in/2025/09/union-minister-manohar-lal-khattar.html" target="_blank">Union Minister Manohar Lal Khattar Launches ‘Campus Tank Punjab’ – India’s Pioneering University-Led Startup Launchpad</a>
-                                            <span class="nw-tag">Chandigarh University</span>
+                                            <span class="nw-tag">Shivalik College</span>
                                         </div>
                                     </div>
                                 </div>                                
@@ -4493,7 +4493,7 @@
                                         <div class="nw-content">
                                             <span class="nw-date">Sep 29 | Global Education Summit</span>
                                             <a class="str-link" href="https://www.facebook.com/chandigarhuniversitygharuan/posts/pfbid02dpNUjbdMHzf3GWSHLShe6nxe1iVNq6Tac1AswdQ6WhuLBdqiPXyXCB9GPDCC99zyl" target="_blank" rel="nofollow">CU proudly hosted the 5th Global Education Summit, a landmark gathering of over 60 leaders from more than 50 top-ranked universities across 35 countries.</a>
-                                            <span class="nw-tag">Chandigarh University</span>
+                                            <span class="nw-tag">Shivalik College</span>
                                         </div>
                                     </div>
                                 </div>
@@ -4526,7 +4526,7 @@
                                     <div class="col-md-12 bg-white">
                                         <div class="nw-content">
                                             <span class="nw-date">June 08 | Influencer Visit</span>
-                                            <a class="str-link" rel="nofollow" href="https://www.youtube.com/watch?v=YvfqsL9QoxY" target="_blank">India's Top Influencer - Flying Beast | Gaurav Taneja Speaks about Chandigarh University</a>
+                                            <a class="str-link" rel="nofollow" href="https://www.youtube.com/watch?v=YvfqsL9QoxY" target="_blank">India's Top Influencer - Flying Beast | Gaurav Taneja Speaks about Shivalik College</a>
                                             <span class="nw-tag">Campus Life</span>
                                         </div>
                                     </div>
@@ -4541,7 +4541,7 @@
                                     <div class="col-md-12 bg-white">
                                         <div class="nw-content">
                                             <span class="nw-date">May 13 | CU Visit</span>
-                                            <a class="str-link" rel="nofollow" href="https://www.youtube.com/watch?v=H1xv7s4NR5M" target="_blank">The Editor-in-Chief of Curly Tales, Kamiya Jani, visited Chandigarh University</a>
+                                            <a class="str-link" rel="nofollow" href="https://www.youtube.com/watch?v=H1xv7s4NR5M" target="_blank">The Editor-in-Chief of Curly Tales, Kamiya Jani, visited Shivalik College</a>
                                             <span class="nw-tag">Campus Life</span>
                                         </div>
                                     </div>
@@ -4557,7 +4557,7 @@
     <section class="cuMap-section pt-115 pb-115 position-relative">
         <div class="container">
             <div class="mainHeading text-center position-relative" data-aos="fade-up" data-aos-duration="500">
-                <h2><span>Step Inside</span> Chandigarh University - Virtually!</h2>
+                <h2><span>Step Inside</span> Shivalik College - Virtually!</h2>
             </div>
             <div class="cuMap-section__in position-relative lazy-bg" style="background-image: url('latest-assets/img/map-placeholder.webp'); background-size: cover; background-position: center 50%" data-bg="latest-assets/img/map.webp">
                 <div class="homePageMap-iframe h-100 position-relative" id="vMap">
@@ -4667,7 +4667,7 @@
                 </div>
                 <div class="col-6 col-sm-4 col-lg-2">
                     <h5>Get in Touch</h5>
-                    <p>Chandigarh University<br> NH-05 Chandigarh-Ludhiana Highway, <br>Mohali, Punjab (INDIA)</p>
+                    <p>Shivalik College<br> NH-05 Chandigarh-Ludhiana Highway, <br>Mohali, Punjab (INDIA)</p>
                     <ul class="m-0 list-unstyled">
                         <li>
                             <!-- General Helpline No:<br><a href="tel:+911603051003">+91-160-3051003</a><br> -->
@@ -4698,17 +4698,17 @@
                 <div class="col-12 col-lg-3 col-md-5 social-media-icons ms-auto">
                     <ul class="m-0 list-unstyled d-flex justify-content-between">
                         <li><a href="https://www.facebook.com/chandigarhuniversitygharuan" rel="nofollow"
-                                target="_blank" aria-label="Go to Chandigarh University's Facebook Page"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="https://twitter.com/Chandigarh_uni" rel="nofollow" target="_blank" aria-label="Go to Chandigarh University's Twitter (X) Page"><img src="../includes/assets/images/header-footer/twitter-icon.webp" alt="" height="12" class="f-twitter-icon"></a></li>
-                        <li><a href="http://www.pinterest.com/chandigarhunive/boards/" rel="nofollow" target="_blank" aria-label="Go to Chandigarh University's Pinterest Page"><i
+                                target="_blank" aria-label="Go to Shivalik College's Facebook Page"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="https://twitter.com/Chandigarh_uni" rel="nofollow" target="_blank" aria-label="Go to Shivalik College's Twitter (X) Page"><img src="../includes/assets/images/header-footer/twitter-icon.webp" alt="" height="12" class="f-twitter-icon"></a></li>
+                        <li><a href="http://www.pinterest.com/chandigarhunive/boards/" rel="nofollow" target="_blank" aria-label="Go to Shivalik College's Pinterest Page"><i
                                     class="fab fa-pinterest" aria-hidden="true"></i></a></li>
-                        <li><a href="http://www.instagram.com/chandigarhuniversity/" rel="nofollow" target="_blank" aria-label="Go to Chandigarh University's Instagram Page"><i
+                        <li><a href="http://www.instagram.com/chandigarhuniversity/" rel="nofollow" target="_blank" aria-label="Go to Shivalik College's Instagram Page"><i
                                     class="fab fa-instagram" aria-hidden="true"></i></a></li>
                         <li><a href="https://www.linkedin.com/school/chandigarh-university/" rel="nofollow"
-                                target="_blank" aria-label="Go to Chandigarh University's Linkedin Page"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
+                                target="_blank" aria-label="Go to Shivalik College's Linkedin Page"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
                         <li><a href="https://www.youtube.com/user/chandigarhuniversity" rel="nofollow"
-                                target="_blank" aria-label="Go to Chandigarh University's Youtube Page"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
-                        <li><a href="https://www.threads.net/@chandigarhuniversity" target="_blank" aria-label="Go to Chandigarh University's Threads Page"><img src="../includes/assets/images/header-footer/threads-icon.webp" alt="" height="14"></a></li>
+                                target="_blank" aria-label="Go to Shivalik College's Youtube Page"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.threads.net/@chandigarhuniversity" target="_blank" aria-label="Go to Shivalik College's Threads Page"><img src="../includes/assets/images/header-footer/threads-icon.webp" alt="" height="14"></a></li>
                     </ul>
                 </div>
             </div>
@@ -4736,7 +4736,7 @@
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <h5>About Us</h5>
-                    <p>Chandigarh University, Panjab (CU) is the <b>Best University in
+                    <p>Shivalik College, Panjab (CU) is the <b>Best University in
                             Punjab</b> and North India that offers various Undergraduate and Post graduate Courses like B.Tech, BCA, BBA, HMCT, B.Com, LLB, B.Arch, MBA, M.Tech, B.Com, M.Com, Journalism and MCA at an affordable fees in Chandigarh, India. <a href="https://cucet.cuchd.in/index.aspx?utm_source=Website&utm_medium=cuchd"
                             target="_blank" style="color: var(--text-skyblue);">Apply Now</a> at India's Best Private University in Punjab, Chandigarh which provides top placements.</p>
                 </div>
@@ -4756,7 +4756,7 @@
 </footer>
 
 <div class="allNotification">
-    <button type="button" class="allNotification__icon" aria-label="Chandigarh University Notifications"><i class="fa-solid fa-bell bell"></i></button>
+    <button type="button" class="allNotification__icon" aria-label="Shivalik College Notifications"><i class="fa-solid fa-bell bell"></i></button>
     <div class="allNotification__list show"> <!-- removed 'show' -->
         <ul class="list-unstyled p-0 m-0">
             <li class="shadow">
@@ -4791,7 +4791,7 @@
 <div class="blur-lay"></div>
 
 <div class="footer-fixed-bar">
-  <button type="button" class="page-scroll" aria-label="Chandigarh University Homepage">APPLY NOW  for CUCET - 2026 <!--(Registration End Date (Phase - 2): 10<sup>th</sup> October 2025)--></button>
+  <button type="button" class="page-scroll" aria-label="Shivalik College Homepage">APPLY NOW  for CUCET - 2026 <!--(Registration End Date (Phase - 2): 10<sup>th</sup> October 2025)--></button>
 </div>
 
 <div class="gotoTop">

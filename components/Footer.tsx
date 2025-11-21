@@ -19,7 +19,7 @@ export function Footer({ navigation, global }: FooterProps) {
               </p>
               <ul className="mt-4 space-y-2 text-sm">
                 {column.links.map((link) => (
-                  <li key={`${column.title}-${link.href}`}>
+                  <li key={`${column.title}-${link.href}-${link.label}`}>
                     <Link href={link.href} className="text-slate-200/90 hover:text-white">
                       {link.label}
                     </Link>
@@ -54,7 +54,7 @@ export function Footer({ navigation, global }: FooterProps) {
           </div>
         </div>
         <div className="mt-12 flex flex-col gap-4 border-t border-white/5 pt-6 text-xs text-white/60 md:flex-row md:items-center md:justify-between">
-          <p>© {new Date().getFullYear()} Chandigarh University. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Shivalik College. All rights reserved.</p>
           <p>Best Private University in Punjab • 2056 indexed public pages • Data-driven Next.js replica.</p>
         </div>
       </div>

@@ -15,7 +15,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: DepartmentPageProps): Promise<Metadata> {
   const department = getDepartmentBySlug(params.slug);
   return {
-    title: department ? `${department.title} • Departments` : "Departments • Chandigarh University",
+    title: department ? `${department.title} • Departments` : "Departments • Shivalik College",
     description: department?.overview,
   };
 }

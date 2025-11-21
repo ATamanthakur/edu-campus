@@ -17,11 +17,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const page = getPageContent(slug);
   if (!page) {
     return {
-      title: "Chandigarh University",
+      title: "Shivalik College",
     };
   }
   return {
-    title: `${page.title} • Chandigarh University`,
+    title: `${page.title} • Shivalik College`,
     description: page.sections[0]?.description ?? page.title,
   };
 }

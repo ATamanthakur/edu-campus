@@ -19,6 +19,14 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "www.cuchd.in",
       },
+      {
+        protocol: "https",
+        hostname: "shivalikcollege.edu.in",
+      },
+      {
+        protocol: "https",
+        hostname: "cheerful-seahorse-57614e.netlify.app",
+      },
     ],
   },
 };

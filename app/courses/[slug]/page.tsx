@@ -15,7 +15,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: CoursePageProps): Promise<Metadata> {
   const course = getCourseBySlug(params.slug);
   return {
-    title: course ? `${course.title} • Courses` : "Courses • Chandigarh University",
+    title: course ? `${course.title} • Courses` : "Courses • Shivalik College",
     description: course?.overview,
   };
 }

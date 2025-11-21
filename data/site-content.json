@@ -1,8 +1,8 @@
 {
   "navigation": {
     "logo": {
-      "light": "https://www.cuchd.in/includes/assets/images/header-footer/cu-logo-white.webp",
-      "dark": "https://www.cuchd.in/includes/assets/images/header-footer/cu-logo-dark-new.webp"
+      "light": "https://shivalikcollege.edu.in/wp-content/uploads/2024/11/shivaliklogowordpress-300x132.png",
+      "dark": "https://shivalikcollege.edu.in/wp-content/uploads/2024/11/shivaliklogowordpress-300x132.png"
     },
     "topBar": {
       "announcements": [
@@ -130,7 +130,7 @@
   "pages": [
     {
       "slug": "home",
-      "title": "Chandigarh University",
+      "title": "Shivalik College",
       "sections": [
         {
           "id": "hero",
@@ -371,7 +371,7 @@
         {
           "id": "features",
           "type": "cards-grid",
-          "title": "Why choose Chandigarh University?",
+          "title": "Why choose Shivalik College?",
           "cards": [
             {
               "title": "360° Learning",
@@ -456,7 +456,7 @@
           "type": "news-grid",
           "title": "News and Events",
           "lead": {
-            "title": "Chandigarh University hosts G20 Youth Dialogue",
+            "title": "Shivalik College hosts G20 Youth Dialogue",
             "description": "Ministers and delegates from 15 nations brainstormed future-ready education models at CU auditorium.",
             "image": "https://www.cuchd.in/latest-assets/img/news-main.webp",
             "href": "https://www.cuchd.in/news/g20-youth-dialogue",
@@ -495,7 +495,7 @@
               "href": "https://www.cuchd.in/news/placement-drive"
             },
             {
-              "title": "TEDx Chandigarh University returns in 2025",
+              "title": "TEDx Shivalik College returns in 2025",
               "date": "Nov 06, 2025",
               "tag": "Culture",
               "description": "Eight global speakers decode the theme 'Rebuild Tomorrow'.",
@@ -506,14 +506,14 @@
         {
           "id": "virtual-tour",
           "type": "virtual-tour",
-          "title": "Step inside Chandigarh University virtually",
+          "title": "Step inside Shivalik College virtually",
           "iframe": "https://iviewd.com/cu2/"
         }
       ]
     },
     {
       "slug": "about",
-      "title": "About Chandigarh University",
+      "title": "About Shivalik College",
       "sections": [
         {
           "id": "about-hero",
@@ -666,7 +666,7 @@
           "type": "richtext",
           "title": "Visit Us",
           "body": [
-            "Chandigarh University, NH-05 Chandigarh-Ludhiana Highway, Mohali - 140413",
+            "Shivalik College, NH-05 Chandigarh-Ludhiana Highway, Mohali - 140413",
             "Working hours: 9 AM - 6 PM (Mon - Sat)"
           ]
         }
@@ -792,7 +792,7 @@
             "href": "https://www.cuchd.in/news/sae-finals"
           },
           "stories": [
-            { "title": "TEDx Chandigarh University returns in 2025", "date": "Nov 6, 2025", "href": "https://www.cuchd.in/news/tedx" },
+            { "title": "TEDx Shivalik College returns in 2025", "date": "Nov 6, 2025", "href": "https://www.cuchd.in/news/tedx" },
             { "title": "SkillBridge expo showcases 120 prototypes", "date": "Oct 28, 2025", "href": "https://www.cuchd.in/news/skillbridge" },
             { "title": "CU signs 5 new MoUs in Europe", "date": "Oct 19, 2025", "href": "https://www.cuchd.in/news/europe-mou" }
           ]
