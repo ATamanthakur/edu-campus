@@ -91,14 +91,18 @@ type MegaMenuConfig = {
   highlight?: MegaMenuHighlight;
 };
 
+const SUB_COLLEGES = [
+  { name: "Shivalik College of Engineering", href: "https://shivalikcollege.edu.in/course/shivalik-college-of-engineering/" },
+  { name: "Shivalik College of Pharmacy", href: "https://shivalikcollege.edu.in/course/shivalik-college-of-pharmacy/" },
+];
+
 const SECONDARY_LINKS: NavigationLink[] = [
-  { label: "International", href: "https://www.cuchd.in/international/index.php" },
-  { label: "Student Services", href: "https://www.cuchd.in/student-services/" },
-  { label: "Library", href: "https://www.cuchd.in/student-services/libraries.php" },
-  { label: "Careers", href: "https://www.cuchd.in/jobs/" },
-  { label: "Blogs", href: "https://www.cuchd.in/blogs/" },
-  { label: "CU Podcast", href: "https://www.cuchd.in/podcast/" },
-  { label: "Contact", href: "https://www.cuchd.in/contact/index.php" },
+  { label: "Colleges", href: "https://shivalikcollege.edu.in/" },
+  { label: "Admission Enquiry", href: "" },
+  { label: "Student Services", href: "" },
+  { label: "Library", href: "" },
+  { label: "Alumni", href: "" },
+  { label: "ERP", href: "" },
 ];
 
 const admissionsMenu: MegaMenuConfig = {
@@ -106,10 +110,10 @@ const admissionsMenu: MegaMenuConfig = {
     {
       title: "Plan Your Application",
       links: [
-        { label: "CUCET 2026", href: "https://cucet.cuchd.in", description: "Apply for scholarships & admissions" },
-        { label: "How to Apply", href: "https://www.cuchd.in/admissions/how-to-apply.php", description: "Step-by-step guide" },
-        { label: "CU Edge", href: "https://www.cuchd.in/admissions/cu-edge.php", description: "Exclusive early benefits" },
-        { label: "Education Loan", href: "https://www.cuchd.in/admissions/education-loan.php" },
+        { label: "SCE 2026", href: "", description: "Apply for scholarships & admissions" },
+        { label: "How to Apply", href: "", description: "Step-by-step guide" },
+        { label: "SCE Edge", href: "", description: "Exclusive early benefits" },
+        { label: "Education Loan", href: "" },
       ],
     },
     {
@@ -117,27 +121,27 @@ const admissionsMenu: MegaMenuConfig = {
       links: [
         { label: "Undergraduate", href: "/courses/b-tech-computer-science" },
         { label: "Postgraduate", href: "/departments/management" },
-        { label: "Doctoral", href: "https://www.cuchd.in/research/phd/" },
-        { label: "Lateral Entry", href: "https://www.cuchd.in/admissions/lateral-entry.php" },
+        { label: "Doctoral", href: "" },
+        { label: "Lateral Entry", href: "" },
       ],
     },
     {
       title: "Support",
       links: [
-        { label: "Scholarships", href: "https://www.cuchd.in/scholarship/", description: "Merit & need based" },
-        { label: "International Admissions", href: "https://www.cuchd.in/international/admissions.php" },
-        { label: "Helpline", href: "tel:+1800121288800", description: "1800-1212-88800" },
-        { label: "Chat with Us", href: "https://www.cuchd.in/online-request/" },
+        { label: "Scholarships", href: "", description: "Merit & need based" },
+        { label: "International Admissions", href: "" },
+        { label: "Helpline", href: "tel:+9997155111", description: "999-7155-111" },
+        { label: "Chat with Us", href: "" },
       ],
     },
   ],
   highlight: {
     badge: "Admissions 2026",
     title: "Early applicants unlock premium scholarships",
-    description: "Book your preferred CUCET slot and secure additional mentoring hours with the admissions team.",
+    description: "Book your preferred SCE slot and secure additional mentoring hours with the admissions team.",
     stats: ["Up to 100% scholarships", "All-India test centers"],
-    image: "https://www.cuchd.in/latest-assets/img/arshdeep-inset-bg.webp",
-    href: "https://cucet.cuchd.in",
+    image: "",
+    href: "",
     ctaLabel: "Start Application",
   },
 };
@@ -149,38 +153,38 @@ const MEGA_MENU_CONFIG: Record<string, MegaMenuConfig> = {
         title: "Who We Are",
         links: [
           { label: "Overview", href: "/about" },
-          { label: "Vision & Mission", href: "https://www.cuchd.in/about/vision-and-mission.php" },
-          { label: "Leadership", href: "https://www.cuchd.in/about/LeaderShip.php" },
-          { label: "Core Values", href: "https://www.cuchd.in/core-values/" },
+          { label: "Vision & Mission", href: "" },
+          { label: "Leadership", href: "" },
+          { label: "Core Values", href: "" },
         ],
       },
       {
         title: "Rankings & Accreditations",
         links: [
-          { label: "QS World Ranking", href: "https://www.cuchd.in/qs-world-ranked-private-university-in-india/" },
-          { label: "NAAC A+", href: "https://www.cuchd.in/chandigarh-university-ranked-naac-a-plus-grade-university/" },
-          { label: "ABET Accreditation", href: "https://www.cuchd.in/abet/" },
-          { label: "Awards", href: "https://www.cuchd.in/about/Awards-and-Rankings.php" },
+          { label: "QS World Ranking", href: "" },
+          { label: "NAAC A+", href: "" },
+          { label: "ABET Accreditation", href: "" },
+          { label: "Awards", href: "" },
         ],
       },
       {
         title: "Campus Essentials",
         links: [
-          { label: "Institutes & Departments", href: "https://www.cuchd.in/academics/institutes.php" },
-          { label: "Governance", href: "https://www.cuchd.in/about/governance.php" },
-          { label: "CU Edge", href: "https://www.cuchd.in/admissions/cu-edge.php" },
-          { label: "Corporate Brochure", href: "https://www.cuchd.in/includes/assets/pdf/CU-Prospectus.pdf" },
+          { label: "Institutes & Departments", href: "" },
+          { label: "Governance", href: "" },
+          { label: "SCE Edge", href: "" },
+          { label: "Corporate Brochure", href: "" },
         ],
       },
     ],
     highlight: {
       badge: "Ranked #1 Private",
       title: "QS Asia University Rankings 2026",
-      description: "Among India’s top-ranked private universities with NAAC A+ (3.28) and 100k+ alumni in 65 countries.",
+      description: "Among India’s top-ranked private College with NAAC A+ (3.28) and 4k+ Successful Alumni",
       stats: ["801-850 QS World", "Top 170 Asia"],
-      image: "https://www.cuchd.in/includes/assets/images/header-footer/about-dd-image.webp",
+      image: "",
       href: "/about",
-      ctaLabel: "Discover CU",
+      ctaLabel: "Discover SCE",
     },
   },
   Admissions: admissionsMenu,
@@ -190,19 +194,18 @@ const MEGA_MENU_CONFIG: Record<string, MegaMenuConfig> = {
       {
         title: "Live on Campus",
         links: [
-          { label: "Hostels", href: "https://www.cuchd.in/student-services/hostel-facility.php" },
+          { label: "Hostels", href: "https://hostel.shivalikcollege.edu.in/" },
           { label: "Dining", href: "/campus-life" },
-          { label: "Transport", href: "https://www.cuchd.in/student-services/transport-facility.php" },
-          { label: "Sports", href: "https://www.cuchd.in/student-services/sports.php" },
+          { label: "Transport", href: "" },
+          { label: "Sports", href: "" },
         ],
       },
       {
         title: "Experience",
         links: [
-          { label: "Clubs & Chapters", href: "https://www.cuchd.in/campus-life/clubs-and-student-chapters.php" },
-          { label: "Cultural Activities", href: "https://www.cuchd.in/student-services/cultural.php" },
-          { label: "Student Welfare", href: "https://www.cuchd.in/dsaa/students-welfare.php" },
-          { label: "360° Virtual Tour", href: "https://www.cuchd.in/maps/" },
+          { label: "Clubs & Chapters", href: "" },
+          { label: "Cultural Activities", href: "" },
+          { label: "Student Welfare", href: "" },
         ],
       },
     ],
@@ -211,7 +214,7 @@ const MEGA_MENU_CONFIG: Record<string, MegaMenuConfig> = {
       title: "Immersive residential experience",
       description: "Live, learn, and collaborate with peers from every Indian state and 65+ nations in a tech-enabled campus.",
       stats: ["250+ clubs & chapters", "24x7 smart hostels"],
-      image: "https://www.cuchd.in/latest-assets/img/banner-2025.webp",
+      image: "",
       href: "/campus-life",
       ctaLabel: "Explore Campus",
     },
@@ -230,10 +233,10 @@ const MEGA_MENU_CONFIG: Record<string, MegaMenuConfig> = {
       {
         title: "Quick Links",
         links: [
-          { label: "Program Search", href: "https://www.cuchd.in/international/program-search-criteria.php" },
+          { label: "Program Search", href: "" },
           { label: "Distance Learning", href: "/departments/distance-education" },
-          { label: "Credit Transfer", href: "https://www.cuchd.in/international/credit-transfer-program.php" },
-          { label: "Download Prospectus", href: "https://www.cuchd.in/includes/assets/pdf/CU-Prospectus.pdf" },
+          { label: "Credit Transfer", href: "" },
+          { label: "Download Prospectus", href: "" },
         ],
       },
     ],
@@ -242,7 +245,7 @@ const MEGA_MENU_CONFIG: Record<string, MegaMenuConfig> = {
       title: "Future-ready curriculum",
       description: "Project-based learning powered by industry mentors, global faculty, and labs co-built with Fortune 500 companies.",
       stats: ["30+ international pathways", "Industry 4.0 labs"],
-      image: "https://www.cuchd.in/latest-assets/img/akshay-inset-bg.webp",
+      image: "",
       href: "/courses/b-tech-computer-science",
       ctaLabel: "Browse Courses",
     },
@@ -261,9 +264,9 @@ const MEGA_MENU_CONFIG: Record<string, MegaMenuConfig> = {
       {
         title: "Academic Support",
         links: [
-          { label: "Teaching Practices", href: "https://www.cuchd.in/academics/teaching-practices.php" },
-          { label: "System of Evaluation", href: "https://www.cuchd.in/academics/system-of-evaluation.php" },
-          { label: "Industry Advisory Boards", href: "https://www.cuchd.in/industry/" },
+          { label: "Teaching Practices", href: "" },
+          { label: "System of Evaluation", href: "" },
+          { label: "Industry Advisory Boards", href: "" },
           { label: "Research Clusters", href: "/research" },
         ],
       },
@@ -273,7 +276,7 @@ const MEGA_MENU_CONFIG: Record<string, MegaMenuConfig> = {
       title: "Multi-disciplinary ecosystem",
       description: "140+ programs backed by 1350+ doctoral faculty, 30+ centers of excellence, and 250+ global collaborations.",
       stats: ["1350+ doctoral faculty", "1,00,000+ alumni"],
-      image: "https://www.cuchd.in/latest-assets/img/vc-inset-bg.webp",
+      image: "",
       href: "/departments/engineering",
       ctaLabel: "View Departments",
     },
@@ -283,26 +286,26 @@ const MEGA_MENU_CONFIG: Record<string, MegaMenuConfig> = {
       {
         title: "Career Outcomes",
         links: [
-          { label: "Placement Overview", href: "https://www.cuchd.in/placements/" },
-          { label: "Dream Packages", href: "https://www.cuchd.in/placements/highest-package.php" },
-          { label: "Recruiting Partners", href: "https://www.cuchd.in/placements/companies.php" },
+          { label: "Placement Overview", href: "" },
+          { label: "Dream Packages", href: "" },
+          { label: "Recruiting Partners", href: "" },
         ],
       },
       {
         title: "Learner Support",
         links: [
-          { label: "Career Mentorship", href: "https://www.cuchd.in/placements/training.php" },
-          { label: "Entrepreneurship", href: "https://www.cuchd.in/technology-business-incubator/" },
-          { label: "Global Internships", href: "https://www.cuchd.in/international/internships.php" },
+          { label: "Career Mentorship", href: "" },
+          { label: "Entrepreneurship", href: "" },
+          { label: "Global Internships", href: "" },
         ],
       },
     ],
     highlight: {
       badge: "9000+ Offers",
-      title: "India's best Placement University",
+      title: "India's best Placements College",
       description: "Dream + super dream packages from 1100+ companies including Google, Amazon, Microsoft, and Fortune 500 leaders.",
       stats: ["54.75 LPA national", "1.7 Cr international"],
-      image: "https://www.cuchd.in/latest-assets/img/sid-inset-bg.webp",
+      image: "",
       href: "/placements",
       ctaLabel: "View Placements",
     },
@@ -312,17 +315,17 @@ const MEGA_MENU_CONFIG: Record<string, MegaMenuConfig> = {
       {
         title: "Innovation Programs",
         links: [
-          { label: "Research Clusters", href: "https://www.cuchd.in/research/" },
-          { label: "Patents", href: "https://www.cuchd.in/research/patents.php" },
-          { label: "Centers of Excellence", href: "https://www.cuchd.in/research/center-of-excellence.php" },
+          { label: "Research Clusters", href: "" },
+          { label: "Patents", href: "" },
+          { label: "Centers of Excellence", href: "" },
         ],
       },
       {
         title: "Get Involved",
         links: [
-          { label: "PhD Programs", href: "https://www.cuchd.in/research/phd/" },
-          { label: "Industry Collaborations", href: "https://www.cuchd.in/industry/" },
-          { label: "Funding & Grants", href: "https://www.cuchd.in/research/funding.php" },
+          { label: "PhD Programs", href: "" },
+          { label: "Industry Collaborations", href: "" },
+          { label: "Funding & Grants", href: "" },
         ],
       },
     ],
@@ -331,7 +334,7 @@ const MEGA_MENU_CONFIG: Record<string, MegaMenuConfig> = {
       title: "Research & Innovation",
       description: "Engage with global labs, international research partners, and interdisciplinary problem statements.",
       stats: ["30+ excellence centers", "250+ collaborations"],
-      image: "https://www.cuchd.in/latest-assets/img/akshay-inset-bg.webp",
+      image: "",
       href: "/research",
       ctaLabel: "Explore Research",
     },
@@ -341,17 +344,17 @@ const MEGA_MENU_CONFIG: Record<string, MegaMenuConfig> = {
       {
         title: "Global Exposure",
         links: [
-          { label: "International Admissions", href: "https://www.cuchd.in/international/admissions.php" },
-          { label: "Study Abroad", href: "https://www.cuchd.in/international/semester-abroad.php" },
-          { label: "Dual Degrees", href: "https://www.cuchd.in/international/program-search-criteria.php" },
+          { label: "International Admissions", href: "" },
+          { label: "Study Abroad", href: "" },
+          { label: "Dual Degrees", href: "" },
         ],
       },
       {
         title: "Network",
         links: [
-          { label: "Global Partners", href: "https://www.cuchd.in/international-partners/" },
-          { label: "International Research", href: "https://www.cuchd.in/research/" },
-          { label: "Language & Culture", href: "https://www.cuchd.in/campus-life/clubs-and-student-chapters.php" },
+          { label: "Global Partners", href: "" },
+          { label: "International Research", href: "" },
+          { label: "Language & Culture", href: "" },
         ],
       },
     ],
@@ -360,7 +363,7 @@ const MEGA_MENU_CONFIG: Record<string, MegaMenuConfig> = {
       title: "Global mobility pathways",
       description: "Leverage tie-ups across USA, Europe, Asia, and Australia via semester abroad, dual degrees, and internships.",
       stats: ["Students from 65 nations", "Joint research with 250+ institutions"],
-      image: "https://www.cuchd.in/latest-assets/img/vc-inset-bg.webp",
+      image: "",
       href: "/international",
       ctaLabel: "See Partnerships",
     },
@@ -370,26 +373,26 @@ const MEGA_MENU_CONFIG: Record<string, MegaMenuConfig> = {
       {
         title: "Stay Updated",
         links: [
-          { label: "Latest News", href: "https://news.cuchd.in/" },
-          { label: "Events Calendar", href: "https://www.cuchd.in/events/" },
-          { label: "Press Releases", href: "https://www.cuchd.in/media/" },
+          { label: "Latest News", href: "" },
+          { label: "Events Calendar", href: "" },
+          { label: "Press Releases", href: "" },
         ],
       },
       {
         title: "Highlights",
         links: [
-          { label: "Campus Tank", href: "https://www.cuchd.in/campus-tank/" },
-          { label: "Global Summits", href: "https://www.cuchd.in/international/" },
-          { label: "Awards & Achievements", href: "https://www.cuchd.in/about/Awards-and-Rankings.php" },
+          { label: "Campus Tank", href: "" },
+          { label: "Global Summits", href: "" },
+          { label: "Awards & Achievements", href: "" },
         ],
       },
     ],
     highlight: {
       badge: "Daily Stories",
-      title: "CU in the spotlight",
+      title: "SCE in the spotlight",
       description: "Browse student wins, global collaborations, and marquee conferences hosted on campus all year round.",
       stats: ["50+ events monthly"],
-      image: "https://www.cuchd.in/latest-assets/img/akshay-inset-bg.webp",
+      image: "",
       href: "/news-events",
       ctaLabel: "Read Updates",
     },
@@ -405,9 +408,10 @@ export function Header({ navigation }: HeaderProps) {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const [activeMenu, setActiveMenu] = useState<string | null>(null);
-  const [isCampusMenuOpen, setIsCampusMenuOpen] = useState(false);
+  const [isCollegesDropdownOpen, setIsCollegesDropdownOpen] = useState(false);
   const [mobileExpanded, setMobileExpanded] = useState<string | null>(null);
   const hoverTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+  const collegesHoverTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   const announcements = navigation.topBar?.announcements ?? [];
   const contacts = navigation.topBar?.contacts ?? navigation.utility;
@@ -426,7 +430,7 @@ export function Header({ navigation }: HeaderProps) {
       if (event.key === "Escape") {
         setActiveMenu(null);
         setIsMenuOpen(false);
-        setIsCampusMenuOpen(false);
+        setIsCollegesDropdownOpen(false);
       }
     };
     window.addEventListener("keydown", handleEscape);
@@ -437,6 +441,9 @@ export function Header({ navigation }: HeaderProps) {
     return () => {
       if (hoverTimeoutRef.current) {
         clearTimeout(hoverTimeoutRef.current);
+      }
+      if (collegesHoverTimeoutRef.current) {
+        clearTimeout(collegesHoverTimeoutRef.current);
       }
     };
   }, []);
@@ -538,22 +545,87 @@ export function Header({ navigation }: HeaderProps) {
               )}
 
               <div className="flex flex-1 items-center justify-center gap-4 text-[0.6rem] font-semibold">
-                {SECONDARY_LINKS.map((link, index) => (
-                  <Link key={`${link.href}-${index}`} href={link.href} className="text-current transition hover:text-rose-500">
-                    {link.label}
-                  </Link>
-                ))}
+                {SECONDARY_LINKS.map((link, index) => {
+                  if (link.label === "Colleges") {
+                    return (
+                      <div
+                        key={`${link.href}-${index}`}
+                        className="relative"
+                        onMouseEnter={() => {
+                          if (collegesHoverTimeoutRef.current) clearTimeout(collegesHoverTimeoutRef.current);
+                          setIsCollegesDropdownOpen(true);
+                        }}
+                        onMouseLeave={() => {
+                          collegesHoverTimeoutRef.current = setTimeout(() => {
+                            setIsCollegesDropdownOpen(false);
+                          }, 150);
+                        }}
+                      >
+                        <Link href={link.href} className="text-current transition hover:text-rose-500 inline-flex items-center gap-1">
+                          {link.label}
+                          <svg
+                            width="8"
+                            height="8"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            strokeWidth="2"
+                            className={`transition-transform ${isCollegesDropdownOpen ? "rotate-180" : "rotate-0"}`}
+                          >
+                            <path d="M6 9l6 6 6-6" strokeLinecap="round" />
+                          </svg>
+                        </Link>
+                        {isCollegesDropdownOpen && (
+                          <div
+                            className={`absolute left-0 top-full mt-2 w-64 rounded-2xl border shadow-2xl z-50 ${
+                              navIsLight ? "bg-white border-slate-200" : "bg-slate-900 border-white/10"
+                            }`}
+                            onMouseEnter={() => {
+                              if (collegesHoverTimeoutRef.current) clearTimeout(collegesHoverTimeoutRef.current);
+                            }}
+                            onMouseLeave={() => {
+                              collegesHoverTimeoutRef.current = setTimeout(() => {
+                                setIsCollegesDropdownOpen(false);
+                              }, 150);
+                            }}
+                          >
+                            <div className="p-2">
+                              {SUB_COLLEGES.map((college) => (
+                                <Link
+                                  key={college.href}
+                                  href={college.href}
+                                  className={`block rounded-xl px-4 py-3 text-sm font-semibold transition ${
+                                    navIsLight
+                                      ? "text-slate-900 hover:bg-rose-50 hover:text-rose-600"
+                                      : "text-white hover:bg-white/10"
+                                  }`}
+                                >
+                                  {college.name}
+                                </Link>
+                              ))}
+                            </div>
+                          </div>
+                        )}
+                      </div>
+                    );
+                  }
+                  return (
+                    <Link key={`${link.href}-${index}`} href={link.href} className="text-current transition hover:text-rose-500">
+                      {link.label}
+                    </Link>
+                  );
+                })}
               </div>
               <div className="flex items-center gap-4 text-[0.6rem] font-semibold">
                 <button type="button" aria-label="Search" className={`rounded-full border px-3 py-2 ${iconButtonClass}`}>
                   <HeaderIcon name="search" />
                 </button>
                 <Link
-                  href="tel:+1800121288800"
+                  href="tel:+9997155111"
                   className="inline-flex items-center gap-2 rounded-full border border-white/20 px-4 py-2 text-sm tracking-[0.25em]"
                 >
                   <HeaderIcon name="phone" />
-                  1800 1212 88800
+                  999 7155 111
                 </Link>
               </div>
             </div>

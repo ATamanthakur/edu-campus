@@ -151,7 +151,7 @@
             },
             "contactPoint": [{
                 "@type": "ContactPoint",
-                "telephone": "+911800121288800",
+                "telephone": "+919997155111",
                 "contactType": "customer service",
                 "contactOption": "TollFree",
                 "areaServed": "IN",
@@ -663,10 +663,10 @@
             </div>
             <div class="d-flex ms-auto showOnMobile">
                 <div class="d-flex header_btn blue-gradient me-3">
-                    <a href="tel:+1800121288800" class="d-flex align-items-center text-white">
+                    <a href="tel:+9997155111" class="d-flex align-items-center text-white">
                         <img src="includes/assets/images/header-footer/phone-icon.webp" alt="" width="30">
                         <span class="d-block ms-2">
-                            <small class="d-block text-capitalize">Admission Helpline</small>1800121288800
+                            <small class="d-block text-capitalize">Admission Helpline</small>9997155111
                         </span>
                     </a>
                     <button class="navbar-toggler d-flex" type="button" data-bs-toggle="collapse"
@@ -734,10 +734,10 @@
 
                         <div class="d-flex ms-auto hideOnMobile">
                             <div class="d-flex header_btn blue-gradient btn-hoverEffect">
-                                <a href="tel:+1800121288800" class="d-flex align-items-center text-white">
+                                <a href="tel:+9997155111" class="d-flex align-items-center text-white">
                                     <img src="includes/assets/images/header-footer/phone-icon.webp" alt="" width="30">
                                     <span class="d-block ms-2">
-                                        <small class="d-block text-capitalize">Admission Helpline</small>1800121288800
+                                        <small class="d-block text-capitalize">Admission Helpline</small>9997155111
                                     </span>
                                 </a>
                                 <button class="navbar-toggler d-flex" type="button" data-bs-toggle="collapse"
@@ -1808,7 +1808,7 @@
                                                                         d="M60 163.1c-5.5 0-10 4.5-10 10 0 5.5 4.5 10 10 10s10-4.5 10-10C70 167.5 65.5 163.1 60 163.1L60 163.1z" />
                                                                 </svg>
                                                             </span>
-                                                            CUCET
+                                                            SHIVALIK
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3030,14 +3030,14 @@
                                         data-bg="latest-assets/img/topHighlights-cucet-toppers.webp">
                                         <div class="card-body p-0 d-flex justify-content-end">
                                             <div class="nw-cont">
-                                                <h6>Shivalik College Felicitates 2,516 CUCET Toppers; Offers Scholarships up to 100% at CU Scholars’ Summit 2025</h6>
+                                                <h6>Shivalik College Felicitates 2,516 SHIVALIK Toppers; Offers Scholarships up to 100% at CU Scholars’ Summit 2025</h6>
                                                 <p>In a major push toward making world-class education accessible and reducing student dropouts, Shivalik College inaugurated ...</p>
                                                 <a href="https://news.cuchd.in/2025/06/chandigarh-university-felicitates-2516.html" class="btn btn-primary btn-hoverEffect" target="_blank">Read More <img data-src="latest-assets/img/right-arrow-btn.webp" alt="Button Arrow" width="16" class="lazy-img ms-2"></a>
                                             </div>
                                         </div>
                                         <div class="card-footer bg-transparent p-0">
                                             <div class="newsTags">
-                                                Scholarships <span>|</span> CUCET
+                                                Scholarships <span>|</span> SHIVALIK
                                             </div>
                                         </div>
                                     </div>
@@ -4672,7 +4672,7 @@
                         <li>
                             <!-- General Helpline No:<br><a href="tel:+911603051003">+91-160-3051003</a><br> -->
                             Student Helpline No:<br><a href="tel:18002571800">1800 257 1800</a><br>
-                            Toll Free:<br><a href="tel:1800121288800">1800 1212 88800</a><br>
+                            Toll Free:<br><a href="tel:9997155111">999 7155 111</a><br>
                             Email:<br><a href="mailto:admissions@cumail.in">admissions@cumail.in</a>
 
                         </li>
@@ -4761,7 +4761,7 @@
         <ul class="list-unstyled p-0 m-0">
             <li class="shadow">
                 <a href="https://cucet.cuchd.in/index.aspx?utm_source=Website&amp;utm_medium=cuchd" target="_blank">
-                    <h6>CUCET 2026</h6>
+                    <h6>SHIVALIK 2026</h6>
                     <p>₹200 Crore in Scholarships Await!</p>
                     <span class="btn btn-md text-link">Apply Now !</span>
                 </a>
@@ -4791,7 +4791,7 @@
 <div class="blur-lay"></div>
 
 <div class="footer-fixed-bar">
-  <button type="button" class="page-scroll" aria-label="Shivalik College Homepage">APPLY NOW  for CUCET - 2026 <!--(Registration End Date (Phase - 2): 10<sup>th</sup> October 2025)--></button>
+  <button type="button" class="page-scroll" aria-label="Shivalik College Homepage">APPLY NOW  for SHIVALIK - 2026 <!--(Registration End Date (Phase - 2): 10<sup>th</sup> October 2025)--></button>
 </div>
 
 <div class="gotoTop">

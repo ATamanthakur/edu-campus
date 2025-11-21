@@ -7,22 +7,22 @@
     "topBar": {
       "announcements": [
         "QS World University Rankings 2025 • 801-850",
-        "CUCET 2026 registrations are live",
+        "SCE 2026 registrations are live",
         "NAAC Accredited A+ with CGPA 3.28"
       ],
       "contacts": [
-        { "label": "Call: 1800-121-288-800", "href": "tel:+1800121288800", "icon": "phone" },
-        { "label": "WhatsApp Admissions", "href": "https://wa.me/1800121288800", "icon": "whatsapp" }
+        { "label": "Call: 1800-121-288-800", "href": "tel:+9997155111", "icon": "phone" },
+        { "label": "WhatsApp Admissions", "href": "https://wa.me/9997155111", "icon": "whatsapp" }
       ],
       "socials": [
         {
           "label": "Facebook",
-          "href": "https://www.facebook.com/chandigarhuniversitygharuan",
+          "href": "https://www.facebook.com/shivalikcollegeofficial/",
           "icon": "facebook"
         },
-        { "label": "Instagram", "href": "http://www.instagram.com/chandigarhuniversity/", "icon": "instagram" },
-        { "label": "YouTube", "href": "https://www.youtube.com/user/chandigarhuniversity", "icon": "youtube" },
-        { "label": "LinkedIn", "href": "https://www.linkedin.com/school/chandigarh-university/", "icon": "linkedin" }
+        { "label": "Instagram", "href": "http://www.instagram.com/shivalikcollegeofficial/", "icon": "instagram" },
+        { "label": "YouTube", "href": "https://www.youtube.com/@ShivalikCollegeOfficial", "icon": "youtube" },
+        { "label": "LinkedIn", "href": "https://www.linkedin.com/school/shivalikcollegeofficial/", "icon": "linkedin" }
       ]
     },
     "primary": [
@@ -38,21 +38,21 @@
       { "label": "Contact", "href": "/contact" }
     ],
     "utility": [
-      { "label": "Virtual Tour", "href": "https://iviewd.com/cu2/" },
-      { "label": "Whatsapp", "href": "https://wa.me/1800121288800" },
-      { "label": "Call: 1800-121-288-800", "href": "tel:+1800121288800" }
+      { "label": "Virtual Tour", "href": "" },
+      { "label": "Whatsapp", "href": "https://wa.me/9997155111" },
+      { "label": "Call: 1800-121-288-800", "href": "tel:+9997155111" }
     ],
     "cta": {
-      "label": "Apply for CUCET 2026",
-      "href": "https://cucet.cuchd.in/index.aspx?utm_source=Website&utm_medium=cuchd"
+      "label": "Apply for SCE 2026",
+      "href": "https://shivalikcollege.edu.in/admissions/apply-online/"
     },
     "footerColumns": [
       {
         "title": "Apply Here",
         "links": [
-          { "label": "CUCET", "href": "https://cucet.cuchd.in" },
-          { "label": "International Admissions", "href": "https://www.cuchd.in/international/" },
-          { "label": "PhD Admissions", "href": "https://www.cuchd.in/research/phd/" }
+          { "label": "SCE 2026", "href": "https://shivalikcollege.edu.in/admissions/apply-online/" },
+          { "label": "International Admissions", "href": "" },
+          { "label": "PhD Admissions", "href": "" }
         ]
       },
       {
@@ -67,7 +67,7 @@
         "title": "Visit Here",
         "links": [
           { "label": "Campus Tour", "href": "/campus-life" },
-          { "label": "Maps", "href": "https://www.cuchd.in/maps/" },
+          { "label": "Maps", "href": "" },
           { "label": "Transport", "href": "/contact" }
         ]
       },
@@ -84,13 +84,13 @@
         "links": [
           { "label": "Placements", "href": "/placements" },
           { "label": "Research", "href": "/research" },
-          { "label": "Alumni", "href": "https://alumni.cuchd.in" }
+          { "label": "Alumni", "href": "https://alumni.shivalikcollege.edu.in" }
         ]
       },
       {
         "title": "Get in Touch",
         "links": [
-          { "label": "admissions@cuchd.in", "href": "mailto:admissions@cuchd.in" },
+          { "label": "info@shivalikcollege.edu.in", "href": "mailto:info@shivalikcollege.edu.in" },
           { "label": "+91 99159 99223", "href": "tel:+919915999223" },
           { "label": "Support Center", "href": "/contact" }
         ]
@@ -99,32 +99,32 @@
   },
   "global": {
     "notification": {
-      "title": "CUCET 2026 applications are live",
+      "title": "SCE 2026 applications are live",
       "message": "Early applicants unlock the highest scholarship slabs and preferred exam slots.",
       "cta": {
         "label": "Start Application",
-        "href": "https://cucet.cuchd.in/index.aspx?utm_source=Website&utm_medium=cuchd"
+        "href": "https://shivalikcollege.edu.in/admissions/apply-online/"
       }
     },
     "timer": {
-      "label": "Application window for PhD closes on 30 Nov 2025",
+      "label": "Application window for MBA closes on 30 Nov 2025",
       "deadline": "2025-11-30T23:59:59.000Z",
       "cta": {
         "label": "Apply Now",
-        "href": "https://www.cuchd.in/phd-me-admissions/ApplicationRegistration.aspx?Subject=fJAt3RX8ggEX//eDGysKyA=="
+        "href": ""
       }
     },
     "social": [
-      { "label": "Facebook", "href": "https://www.facebook.com/chandigarhuniversitygharuan" },
-      { "label": "Instagram", "href": "http://www.instagram.com/chandigarhuniversity/" },
-      { "label": "YouTube", "href": "https://www.youtube.com/user/chandigarhuniversity" },
-      { "label": "LinkedIn", "href": "https://www.linkedin.com/school/chandigarh-university/" }
+      { "label": "Facebook", "href": "https://www.facebook.com/shivalikcollegeofficial/" },
+      { "label": "Instagram", "href": "http://www.instagram.com/shivalikcollegeofficial/" },
+      { "label": "YouTube", "href": "https://www.youtube.com/@ShivalikCollegeOfficial" },
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/school/shivalikcollegeofficial/" }
     ],
     "address": {
-      "line1": "NH-05 Chandigarh-Ludhiana Highway",
-      "city": "Mohali",
-      "state": "Punjab",
-      "postalCode": "140413"
+      "line1": "Shimla Bypass Rd, Shiniwala, P.O, Sherpur",
+      "city": "Dehradun",
+      "state": "Uttarakhand",
+      "postalCode": "248197"
     }
   },
   "pages": [
@@ -145,13 +145,13 @@
             { "label": "Times Higher Education", "value": "Top 170 Asia" }
           ],
           "ctas": [
-            { "label": "Apply for CUCET 2026", "href": "", "style": "primary" },
+            { "label": "Apply for SCE 2026", "href": "", "style": "primary" },
             { "label": "Download Prospectus", "href": "", "style": "secondary" }
           ],
           "gallery": [
-            { "src": "https://www.cuchd.in/latest-assets/img/akshay-inset-bg.webp", "alt": "Akshay visits CU" },
-            { "src": "https://www.cuchd.in/latest-assets/img/vc-inset-bg.webp", "alt": "Vice Chancellor" },
-            { "src": "https://www.cuchd.in/latest-assets/img/arshdeep-inset-bg.webp", "alt": "Arshdeep" }
+            { "src": "", "alt": "Akshay visits SCE" },
+            { "src": "", "alt": "Vice Chancellor" },
+            { "src": "", "alt": "xyz" }
           ],
           "metrics": [
             { "label": "Industry-aligned programs", "value": "154+" },
@@ -159,9 +159,9 @@
             { "label": "Global alumni", "value": "100k+" }
           ],
           "leadForm": {
-            "title": "Fast-track your CU Application",
-            "description": "Share your details to receive a call back and a direct link to the CUCET portal.",
-            "action": "https://cucet.cuchd.in",
+            "title": "Fast-track your SCE Application",
+            "description": "Share your details to receive a call back and a direct link to the SCE portal.",
+            "action": "",
             "fields": [
               { "label": "Full Name", "name": "fullName", "placeholder": "Enter your full name", "required": true },
               { "label": "Email", "name": "email", "type": "email", "placeholder": "yourname@email.com", "required": true },
@@ -171,12 +171,12 @@
                 "name": "program",
                 "type": "select",
                 "placeholder": "Select a discipline",
-                "options": ["Engineering", "Management", "Hospitality", "Sciences", "Law", "Liberal Arts"],
+                "options": ["Engineering", "Management", "Hospitality", "Sciences", "Liberal Arts"],
                 "required": true
               }
             ],
-            "cta": { "label": "Submit & Apply", "href": "https://cucet.cuchd.in" },
-            "disclaimer": "This quick form redirects you to the official CUCET portal with your preferences pre-filled."
+            "cta": { "label": "Submit & Apply", "href": "" },
+            "disclaimer": "This quick form redirects you to the official SCE portal with your preferences pre-filled."
           }
         },
         {
@@ -184,11 +184,12 @@
           "type": "media-strip",
           "variant": "portraits",
           "items": [
-            { "src": "https://www.cuchd.in/latest-assets/img/akshay-inset-bg.webp", "alt": "Akshay at CU" },
-            { "src": "https://www.cuchd.in/latest-assets/img/vc-inset-bg.webp", "alt": "Vice Chancellor" },
-            { "src": "https://www.cuchd.in/latest-assets/img/arshdeep-inset-bg.webp", "alt": "Arshdeep Singh" },
-            { "src": "https://www.cuchd.in/latest-assets/img/sid-inset-bg.webp", "alt": "Sidharth" },
-            { "src": "https://www.cuchd.in/latest-assets/img/parbhat-inset-bg.webp", "alt": "Parbhat" }
+            { "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80", "alt": "Rahul Sharma - B.Tech CSE" },
+            { "src": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80", "alt": "Priya Verma - MBA Student" },
+            { "src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80", "alt": "Arjun Mehta - Research Scholar" },
+            { "src": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=400&q=80", "alt": "Vikram Singh - Campus Life" },
+            { "src": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80", "alt": "Ananya Patel - International Student" },
+            { "src": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80", "alt": "Karan Gupta - Engineering Student" }
           ]
         },
         {
@@ -207,7 +208,7 @@
           "title": "Registration End Date (Phase - 1): 1st May 2026",
           "description": "Secure your exam slot early to access preferred test centres and mentorship webinars.",
           "ctas": [
-            { "label": "Reserve your seat", "href": "https://cucet.cuchd.in" }
+            { "label": "Reserve your seat", "href": "" }
           ]
         },
         {
@@ -270,7 +271,7 @@
           "id": "placements",
           "type": "split-content",
           "eyebrow": "Placements",
-          "title": "Top-tier companies partner with CU",
+          "title": "Top-tier companies partner with SCE",
           "description": "11,000+ offers rolled out in 2024 with the highest package hitting ₹54.75 LPA. Dream recruiters such as Microsoft, Google, McKinsey, and Adobe continue to hire year after year.",
           "primaryList": [
             "Exclusive leadership series with Fortune 500 CXOs",
@@ -296,10 +297,10 @@
           "id": "admissions-banner",
           "type": "feature-banner",
           "eyebrow": "Admissions Helpdesk",
-          "title": "Need clarity on CUCET phases or scholarships?",
+          "title": "Need clarity on SCE phases or scholarships?",
           "description": "Our counsellors are available 9 AM – 9 PM to help you pick the right program, understand exam phases, and block a hostel room in advance.",
           "image": "https://www.cuchd.in/latest-assets/img/banner-2025-akshay-bg.webp",
-          "cta": { "label": "Book a call", "href": "tel:+1800121288800" },
+          "cta": { "label": "Book a call", "href": "tel:+9997155111" },
           "stats": [
             { "label": "Live counsellors", "value": "120+" },
             { "label": "Avg. response", "value": "3 min" }
@@ -361,12 +362,12 @@
         {
           "id": "admissions-spotlight",
           "type": "promo-banner",
-          "eyebrow": "CUCET 2026",
+          "eyebrow": "SCE 2026",
           "badge": "Phase 1 closing soon",
           "title": "Apply today to unlock up to 100% merit scholarships",
           "description": "Complete your application, choose an exam slot, and block your preferred hostel category before 1 May 2026.",
           "image": "https://www.cuchd.in/latest-assets/img/banner-2025-2.webp",
-          "cta": { "label": "Apply for CUCET", "href": "https://cucet.cuchd.in" }
+          "cta": { "label": "Apply for SCE 2026", "href": "https://cucet.cuchd.in" }
         },
         {
           "id": "features",
@@ -560,8 +561,8 @@
           "description": "Choose from undergraduate, postgraduate, and doctoral programs with merit scholarships up to 100%.",
           "backgroundImage": "https://www.cuchd.in/latest-assets/img/banner-2025-akshay-bg.webp",
           "ctas": [
-            { "label": "Start CUCET 2026", "href": "https://cucet.cuchd.in" },
-            { "label": "Talk to Counsellor", "href": "tel:+1800121288800" }
+            { "label": "Start SCE 2026", "href": "https://cucet.cuchd.in" },
+            { "label": "Talk to Counsellor", "href": "tel:+9997155111" }
           ]
         },
         {
@@ -569,7 +570,7 @@
           "type": "cards-grid",
           "title": "Application Steps",
           "cards": [
-            { "title": "Register", "description": "Create your CUCET profile and select the nearest exam window." },
+            { "title": "Register", "description": "Create your SCE profile and select the nearest exam window." },
             { "title": "Attempt Test", "description": "Choose online or test-center mode. Get instant scores." },
             { "title": "Claim Scholarship", "description": "Upload documents, lock your program, and confirm admission." }
           ]
@@ -579,7 +580,7 @@
           "type": "richtext",
           "title": "Scholarship Categories",
           "body": [
-            "CUCET Performance Scholarships",
+            "SCE Performance Scholarships",
             "Sports Excellence Scholarships",
             "Defense Personnel Ward Scholarships",
             "Alumni Scholarships"
@@ -594,7 +595,7 @@
         {
           "id": "apply-hero",
           "type": "hero",
-          "eyebrow": "CUCET 2026",
+          "eyebrow": "SCE 2026",
           "title": "Fast-track your application",
           "description": "It takes less than 10 minutes to pick a test slot, upload documents, and unlock scholarships.",
           "backgroundImage": "https://www.cuchd.in/latest-assets/img/banner-2025-2.webp",
