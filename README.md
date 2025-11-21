@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Chandigarh University Replica (Next.js + Tailwind)
 
-## Getting Started
+This workspace recreates the public marketing experience of [https://www.cuchd.in](https://www.cuchd.in) inside a fully static Next.js (App Router) project. Every page, section, and dynamic route is powered by structured JSON so content editors can scale the experience without touching React components.
 
-First, run the development server:
+## Content pipeline
+
+- **Single source of truth:** `data/site-content.json` describes navigation, timers, notifications, 11 first-level marketing pages, and the dynamic course/department collections (3 courses + 2 departments today).
+- **Section builder:** `components/PageBuilder.tsx` renders JSON-authored hero, ticker, CTA, stats, carousel, accordion, cards, split layouts, logos, testimonials, news, virtual tour, and rich text blocks.
+- **Dynamic routes:**
+  - `/[slug]` (via `app/(content)/[slug]/page.tsx`) covers `/about`, `/admissions`, `/apply`, `/campus-life`, `/contact`, `/hostel`, `/placements`, `/research`, `/international`, `/news-events`.
+  - `/courses/[slug]` and `/departments/[slug]` read from `collections.courses` and `collections.departments` respectively.
+- **Global chrome:** `components/Header`, `NotificationBar`, `TimerBanner`, and `Footer` hydrate from JSON `navigation` and `global` keys.
+
+Updating any copy, CTA, media URL, or statistic only requires editing the JSON file; routes are regenerated during the Next.js build through `generateStaticParams` and `generateMetadata` helpers.
+
+## Development commands
 
 ```bash
+# install deps once
+npm install
+
+# run the JSON-driven experience locally
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# lint before pushing changes
+npm run lint
+
+# production build / static export check
+npm run build && npm run start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Page inventory
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Mapped pages:** 1 home + 10 secondary marketing destinations derived from the live navigation.
+- **Dynamic collections:** 3 course detail pages and 2 department pages generated from JSON.
+- **External references:** sitemap crawl on 20 Nov 2025 shows 2056 URLs. This project focuses on recreating the hero marketing experience with room to expand by appending new JSON records.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Folder highlights
 
-## Learn More
+- `app/` – App Router entry points, content route group, and JSON-driven layouts.
+- `components/` – UI atoms (header/footer), notification/timer widgets, and the `PageBuilder`.
+- `data/site-content.json` – editable source for text, images, CTAs, metrics, and navigation.
+- `docs/content-architecture.md` – notes on schema design, supported section types, and routing blueprint.
+- `lib/content.ts` – helper utilities for querying navigation, pages, courses, and departments.
+- `types/content.ts` – strict TypeScript contracts for JSON validation.
 
-To learn more about Next.js, take a look at the following resources:
+## Extending the site
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Add/modify sections inside `data/site-content.json` using the documented schema.
+2. Drop new course or department objects into `collections` to auto-generate routes.
+3. Run `npm run dev` to preview changes locally (Hot Module Replacement reloads data instantly).
+4. Keep lint clean with `npm run lint`; Next.js 16 enforces type safety for JSON imports.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Refer to `docs/content-architecture.md` for the full breakdown of supported section primitives, data contract, and routing coverage.

@@ -1,0 +1,889 @@
+{
+  "navigation": {
+    "logo": {
+      "light": "https://www.cuchd.in/includes/assets/images/header-footer/cu-logo-white.webp",
+      "dark": "https://www.cuchd.in/includes/assets/images/header-footer/cu-logo-dark-new.webp"
+    },
+    "topBar": {
+      "announcements": [
+        "QS World University Rankings 2025 • 801-850",
+        "CUCET 2026 registrations are live",
+        "NAAC Accredited A+ with CGPA 3.28"
+      ],
+      "contacts": [
+        { "label": "Call: 1800-121-288-800", "href": "tel:+1800121288800", "icon": "phone" },
+        { "label": "WhatsApp Admissions", "href": "https://wa.me/1800121288800", "icon": "whatsapp" }
+      ],
+      "socials": [
+        {
+          "label": "Facebook",
+          "href": "https://www.facebook.com/chandigarhuniversitygharuan",
+          "icon": "facebook"
+        },
+        { "label": "Instagram", "href": "http://www.instagram.com/chandigarhuniversity/", "icon": "instagram" },
+        { "label": "YouTube", "href": "https://www.youtube.com/user/chandigarhuniversity", "icon": "youtube" },
+        { "label": "LinkedIn", "href": "https://www.linkedin.com/school/chandigarh-university/", "icon": "linkedin" }
+      ]
+    },
+    "primary": [
+      { "label": "About", "href": "/about" },
+      { "label": "Admissions", "href": "/admissions" },
+      { "label": "Apply", "href": "/apply" },
+      { "label": "Campus Life", "href": "/campus-life" },
+      { "label": "Courses", "href": "/courses/b-tech-computer-science" },
+      { "label": "Departments", "href": "/departments/engineering" },
+      { "label": "Placements", "href": "/placements" },
+      { "label": "Research", "href": "/research" },
+      { "label": "News & Events", "href": "/news-events" },
+      { "label": "Contact", "href": "/contact" }
+    ],
+    "utility": [
+      { "label": "Virtual Tour", "href": "https://iviewd.com/cu2/" },
+      { "label": "Whatsapp", "href": "https://wa.me/1800121288800" },
+      { "label": "Call: 1800-121-288-800", "href": "tel:+1800121288800" }
+    ],
+    "cta": {
+      "label": "Apply for CUCET 2026",
+      "href": "https://cucet.cuchd.in/index.aspx?utm_source=Website&utm_medium=cuchd"
+    },
+    "footerColumns": [
+      {
+        "title": "Apply Here",
+        "links": [
+          { "label": "CUCET", "href": "https://cucet.cuchd.in" },
+          { "label": "International Admissions", "href": "https://www.cuchd.in/international/" },
+          { "label": "PhD Admissions", "href": "https://www.cuchd.in/research/phd/" }
+        ]
+      },
+      {
+        "title": "Learn Here",
+        "links": [
+          { "label": "Academic Programs", "href": "/courses/b-tech-computer-science" },
+          { "label": "Distance Learning", "href": "/departments/distance-education" },
+          { "label": "Scholarships", "href": "/admissions" }
+        ]
+      },
+      {
+        "title": "Visit Here",
+        "links": [
+          { "label": "Campus Tour", "href": "/campus-life" },
+          { "label": "Maps", "href": "https://www.cuchd.in/maps/" },
+          { "label": "Transport", "href": "/contact" }
+        ]
+      },
+      {
+        "title": "Live Here",
+        "links": [
+          { "label": "Hostels", "href": "/hostel" },
+          { "label": "Dining", "href": "/campus-life" },
+          { "label": "Sports", "href": "/campus-life" }
+        ]
+      },
+      {
+        "title": "Others",
+        "links": [
+          { "label": "Placements", "href": "/placements" },
+          { "label": "Research", "href": "/research" },
+          { "label": "Alumni", "href": "https://alumni.cuchd.in" }
+        ]
+      },
+      {
+        "title": "Get in Touch",
+        "links": [
+          { "label": "admissions@cuchd.in", "href": "mailto:admissions@cuchd.in" },
+          { "label": "+91 99159 99223", "href": "tel:+919915999223" },
+          { "label": "Support Center", "href": "/contact" }
+        ]
+      }
+    ]
+  },
+  "global": {
+    "notification": {
+      "title": "CUCET 2026 applications are live",
+      "message": "Early applicants unlock the highest scholarship slabs and preferred exam slots.",
+      "cta": {
+        "label": "Start Application",
+        "href": "https://cucet.cuchd.in/index.aspx?utm_source=Website&utm_medium=cuchd"
+      }
+    },
+    "timer": {
+      "label": "Application window for PhD closes on 30 Nov 2025",
+      "deadline": "2025-11-30T23:59:59.000Z",
+      "cta": {
+        "label": "Apply Now",
+        "href": "https://www.cuchd.in/phd-me-admissions/ApplicationRegistration.aspx?Subject=fJAt3RX8ggEX//eDGysKyA=="
+      }
+    },
+    "social": [
+      { "label": "Facebook", "href": "https://www.facebook.com/chandigarhuniversitygharuan" },
+      { "label": "Instagram", "href": "http://www.instagram.com/chandigarhuniversity/" },
+      { "label": "YouTube", "href": "https://www.youtube.com/user/chandigarhuniversity" },
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/school/chandigarh-university/" }
+    ],
+    "address": {
+      "line1": "NH-05 Chandigarh-Ludhiana Highway",
+      "city": "Mohali",
+      "state": "Punjab",
+      "postalCode": "140413"
+    }
+  },
+  "pages": [
+    {
+      "slug": "home",
+      "title": "Chandigarh University",
+      "sections": [
+        {
+          "id": "hero",
+          "type": "hero",
+          "eyebrow": "Best Private College in Dehradun",
+          "title": "An illustrious legacy we continue to shape",
+          "description": "Ranked #36 in India (NIRF Overall 2024) with 100,000+ alumni placed across 65 countries. Experience a multi-disciplinary campus powered by research and industry collaborations.",
+          "backgroundImage": "https://www.cuchd.in/latest-assets/img/banner-2025.webp",
+          "badges": [
+            { "label": "QS World University Rankings 2025", "value": "801-850" },
+            { "label": "NAAC Accredited", "value": "A+" },
+            { "label": "Times Higher Education", "value": "Top 170 Asia" }
+          ],
+          "ctas": [
+            { "label": "Apply for CUCET 2026", "href": "https://cucet.cuchd.in", "style": "primary" },
+            { "label": "Download Prospectus", "href": "https://www.cuchd.in/includes/assets/pdf/CU-Prospectus.pdf", "style": "secondary" }
+          ],
+          "gallery": [
+            { "src": "https://www.cuchd.in/latest-assets/img/akshay-inset-bg.webp", "alt": "Akshay visits CU" },
+            { "src": "https://www.cuchd.in/latest-assets/img/vc-inset-bg.webp", "alt": "Vice Chancellor" },
+            { "src": "https://www.cuchd.in/latest-assets/img/arshdeep-inset-bg.webp", "alt": "Arshdeep" }
+          ],
+          "metrics": [
+            { "label": "Industry-aligned programs", "value": "154+" },
+            { "label": "Doctoral faculty", "value": "1350+" },
+            { "label": "Global alumni", "value": "100k+" }
+          ],
+          "leadForm": {
+            "title": "Fast-track your CU Application",
+            "description": "Share your details to receive a call back and a direct link to the CUCET portal.",
+            "action": "https://cucet.cuchd.in",
+            "fields": [
+              { "label": "Full Name", "name": "fullName", "placeholder": "Enter your full name", "required": true },
+              { "label": "Email", "name": "email", "type": "email", "placeholder": "yourname@email.com", "required": true },
+              { "label": "Phone", "name": "phone", "type": "tel", "placeholder": "+91-XXXXXXXXXX", "required": true },
+              {
+                "label": "Interested Program",
+                "name": "program",
+                "type": "select",
+                "placeholder": "Select a discipline",
+                "options": ["Engineering", "Management", "Hospitality", "Sciences", "Law", "Liberal Arts"],
+                "required": true
+              }
+            ],
+            "cta": { "label": "Submit & Apply", "href": "https://cucet.cuchd.in" },
+            "disclaimer": "This quick form redirects you to the official CUCET portal with your preferences pre-filled."
+          }
+        },
+        {
+          "id": "hero-portraits",
+          "type": "media-strip",
+          "variant": "portraits",
+          "items": [
+            { "src": "https://www.cuchd.in/latest-assets/img/akshay-inset-bg.webp", "alt": "Akshay at CU" },
+            { "src": "https://www.cuchd.in/latest-assets/img/vc-inset-bg.webp", "alt": "Vice Chancellor" },
+            { "src": "https://www.cuchd.in/latest-assets/img/arshdeep-inset-bg.webp", "alt": "Arshdeep Singh" },
+            { "src": "https://www.cuchd.in/latest-assets/img/sid-inset-bg.webp", "alt": "Sidharth" },
+            { "src": "https://www.cuchd.in/latest-assets/img/parbhat-inset-bg.webp", "alt": "Parbhat" }
+          ]
+        },
+        {
+          "id": "ticker",
+          "type": "ticker",
+          "items": [
+            "Global Immersion Scholarships worth ₹45 Cr",
+            "1500+ offers above ₹10 LPA in 2024",
+            "NAAC A+ with CGPA 3.28",
+            "QS 5-Star rating in Teaching, Employability & Facilities"
+          ]
+        },
+        {
+          "id": "phase-cutoff",
+          "type": "cta-panel",
+          "title": "Registration End Date (Phase - 1): 1st May 2026",
+          "description": "Secure your exam slot early to access preferred test centres and mentorship webinars.",
+          "ctas": [
+            { "label": "Reserve your seat", "href": "https://cucet.cuchd.in" }
+          ]
+        },
+        {
+          "id": "top-stats",
+          "type": "stats",
+          "title": "An illustrious legacy we continue to shape",
+          "items": [
+            { "label": "Industry-focused programs", "value": "154", "suffix": "+" },
+            { "label": "Industry stalwarts as mentors", "value": "980", "suffix": "+" },
+            { "label": "Doctoral faculty", "value": "1350", "suffix": "+" },
+            { "label": "International faculty", "value": "300", "suffix": "+" },
+            { "label": "Global alumni", "value": "100000", "suffix": "+" }
+          ]
+        },
+        {
+          "id": "highlights",
+          "type": "carousel",
+          "title": "Top Stories",
+          "cards": [
+            {
+              "title": "India's Youngest Private University in QS World Rankings",
+              "description": "Only Indian varsity to debut directly into the global 801-850 band while retaining a 5-Star rating.",
+              "tag": "Rankings",
+              "media": "https://www.cuchd.in/latest-assets/img/banner-2025-2.webp"
+            },
+            {
+              "title": "Global athletics village inside campus",
+              "description": "Olympic-grade athletics track, FIFA-certified football turf, 13 indoor courts & 8 fitness labs.",
+              "tag": "Campus Life",
+              "media": "https://www.cuchd.in/latest-assets/img/mid-slider-bg-1.webp"
+            },
+            {
+              "title": "DeepTech research with 5000+ patent filings",
+              "description": "20 centres of excellence established with Microsoft, Virtusa, AWS, and Boeing.",
+              "tag": "Research",
+              "media": "https://www.cuchd.in/latest-assets/img/research-inset-bg.webp"
+            }
+          ]
+        },
+        {
+          "id": "rankings",
+          "type": "accordion",
+          "title": "Proudly distinguished by rankings & accreditations",
+          "items": [
+            {
+              "title": "QS World University Rankings 2025",
+              "description": "Ranked 801-850 globally, among the top 8 Indian private universities worldwide."
+            },
+            {
+              "title": "NIRF 2024",
+              "description": "#36 Overall, #15 Engineering, #11 Hospitality & Management, reaffirming CU's leadership in professional education."
+            },
+            {
+              "title": "NAAC Accreditation",
+              "description": "Graded A+ with CGPA 3.28 in the very first cycle, placing CU among India's top 5% higher-ed institutions."
+            }
+          ]
+        },
+        {
+          "id": "placements",
+          "type": "split-content",
+          "eyebrow": "Placements",
+          "title": "Top-tier companies partner with CU",
+          "description": "11,000+ offers rolled out in 2024 with the highest package hitting ₹54.75 LPA. Dream recruiters such as Microsoft, Google, McKinsey, and Adobe continue to hire year after year.",
+          "primaryList": [
+            "Exclusive leadership series with Fortune 500 CXOs",
+            "Built-in interview pods & Deloitte-certified finishing school",
+            "Global internship exchanges in 30+ countries"
+          ],
+          "media": "https://www.cuchd.in/latest-assets/img/top-students.webp"
+        },
+        {
+          "id": "companies",
+          "type": "logos",
+          "title": "Top-Tier Companies in Our Placement Network",
+          "logos": [
+            { "name": "Microsoft", "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" },
+            { "name": "Amazon", "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" },
+            { "name": "Google", "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" },
+            { "name": "Deloitte", "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Deloitte_logo.svg" },
+            { "name": "IBM", "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" },
+            { "name": "Siemens", "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Siemens-logo.svg" }
+          ]
+        },
+        {
+          "id": "admissions-banner",
+          "type": "feature-banner",
+          "eyebrow": "Admissions Helpdesk",
+          "title": "Need clarity on CUCET phases or scholarships?",
+          "description": "Our counsellors are available 9 AM – 9 PM to help you pick the right program, understand exam phases, and block a hostel room in advance.",
+          "image": "https://www.cuchd.in/latest-assets/img/banner-2025-akshay-bg.webp",
+          "cta": { "label": "Book a call", "href": "tel:+1800121288800" },
+          "stats": [
+            { "label": "Live counsellors", "value": "120+" },
+            { "label": "Avg. response", "value": "3 min" }
+          ]
+        },
+        {
+          "id": "campus-panels",
+          "type": "media-strip",
+          "title": "Peek inside campus life",
+          "variant": "panels",
+          "items": [
+            { "src": "https://www.cuchd.in/latest-assets/img/mid-slider-bg-1.webp", "alt": "Sports village" },
+            { "src": "https://www.cuchd.in/latest-assets/img/mid-slider-bg-2.webp", "alt": "Innovation labs" }
+          ]
+        },
+        {
+          "id": "global-key-figures",
+          "type": "key-figures",
+          "eyebrow": "Global Experience",
+          "title": "Immerse yourself in a global educational experience",
+          "items": [
+            {
+              "title": "Nationalities on campus",
+              "value": "65+",
+              "description": "Live, dine, and collaborate with peers representing every continent through curated cultural villages and buddy programs.",
+              "media": "https://www.cuchd.in/latest-assets/img/mid-slider-bg-2.webp",
+              "defaultOpen": true
+            },
+            {
+              "title": "Global exchange & immersion seats",
+              "value": "570+",
+              "description": "Semester abroad pathways with UC Berkeley, Manchester, Toronto Metropolitan, and 400+ partner universities.",
+              "media": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=800&q=80"
+            },
+            {
+              "title": "Summer schools & bootcamps",
+              "value": "45",
+              "description": "From design sprints in Milan to fintech sandboxes in Singapore, curate your short-term study abroad calendar.",
+              "media": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?auto=format&fit=crop&w=800&q=80"
+            },
+            {
+              "title": "Immersion scholarships",
+              "value": "₹45 Cr",
+              "description": "Dedicated fund that offsets tuition, travel, and accommodation for outbound semesters and international competitions.",
+              "media": "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format&fit=crop&w=800&q=80"
+            },
+            {
+              "title": "International student support desk",
+              "description": "Visa, FRRO, airport pickups, multilingual counsellors, and on-campus currency facilitation counters available 24x7.",
+              "media": "https://www.cuchd.in/latest-assets/img/international.webp"
+            },
+            {
+              "title": "Global living zones",
+              "description": "Dedicated hostels, cuisine clusters, and hobby societies ensure an inclusive living experience in Mohali.",
+              "media": "https://www.cuchd.in/latest-assets/img/hostel.webp"
+            }
+          ]
+        },
+        {
+          "id": "admissions-spotlight",
+          "type": "promo-banner",
+          "eyebrow": "CUCET 2026",
+          "badge": "Phase 1 closing soon",
+          "title": "Apply today to unlock up to 100% merit scholarships",
+          "description": "Complete your application, choose an exam slot, and block your preferred hostel category before 1 May 2026.",
+          "image": "https://www.cuchd.in/latest-assets/img/banner-2025-2.webp",
+          "cta": { "label": "Apply for CUCET", "href": "https://cucet.cuchd.in" }
+        },
+        {
+          "id": "features",
+          "type": "cards-grid",
+          "title": "Why choose Chandigarh University?",
+          "cards": [
+            {
+              "title": "360° Learning",
+              "description": "Curriculum co-designed with industry councils, hackathons, and interdisciplinary minors.",
+              "icon": "window"
+            },
+            {
+              "title": "Future-ready Infrastructure",
+              "description": "Smart classrooms, XR labs, high-performance computing clusters, and 24/7 student innovation hubs.",
+              "icon": "globe"
+            },
+            {
+              "title": "Life on Campus",
+              "description": "80+ student clubs, annual global fests, entrepreneurship garage zones, and culinary studios.",
+              "icon": "file"
+            }
+          ]
+        },
+        {
+          "id": "testimonials",
+          "type": "testimonials",
+          "title": "Student & alumni stories",
+          "items": [
+            {
+              "name": "Aarushi Mendiratta",
+              "program": "B.E. CSE, 2024",
+              "quote": "CU's research clusters helped me co-author 3 IEEE papers and secure a data science role at American Express.",
+              "avatar": "https://images.unsplash.com/photo-1521579971123-1192931a1452?auto=format&fit=facearea&w=200&h=200&q=80"
+            },
+            {
+              "name": "Prateek Saini",
+              "program": "MBA, 2023",
+              "quote": "Global immersion in Singapore and the Deloitte finishing school sessions made placements a breeze.",
+              "avatar": "https://images.unsplash.com/photo-1504593811423-6dd665756598?auto=format&fit=facearea&w=200&h=200&q=80"
+            },
+            {
+              "name": "Umyia Ben",
+              "program": "B.Arch, 2022",
+              "quote": "Studying with peers from 50+ nations taught me how to design inclusive public spaces.",
+              "avatar": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=facearea&w=200&h=200&q=80"
+            }
+          ]
+        },
+        {
+          "id": "research",
+          "type": "stats",
+          "title": "Pioneering Research",
+          "items": [
+            { "label": "Publications", "value": "20000", "suffix": "+" },
+            { "label": "Patents filed", "value": "5000", "suffix": "+" },
+            { "label": "Research groups", "value": "200", "suffix": "" },
+            { "label": "Centres of excellence", "value": "20", "suffix": "+" }
+          ]
+        },
+        {
+          "id": "labs",
+          "type": "carousel",
+          "title": "Centres of excellence",
+          "cards": [
+            {
+              "title": "Microsoft Innovation Centre",
+              "description": "Azure, AI, and security sandboxes for enterprise-grade projects.",
+              "tag": "Cloud",
+              "media": "https://www.cuchd.in/latest-assets/img/research-lab-1.webp"
+            },
+            {
+              "title": "Virtual Production Studio",
+              "description": "LED volumes, motion capture, and Unreal pipelines for creators.",
+              "tag": "Media",
+              "media": "https://www.cuchd.in/latest-assets/img/research-lab-2.webp"
+            },
+            {
+              "title": "Autonomous Mobility Lab",
+              "description": "EV prototyping garages, Formula Bharat setups, and simulation pods.",
+              "tag": "Mobility",
+              "media": "https://www.cuchd.in/latest-assets/img/research-lab-3.webp"
+            }
+          ]
+        },
+        {
+          "id": "news-grid",
+          "type": "news-grid",
+          "title": "News and Events",
+          "lead": {
+            "title": "Chandigarh University hosts G20 Youth Dialogue",
+            "description": "Ministers and delegates from 15 nations brainstormed future-ready education models at CU auditorium.",
+            "image": "https://www.cuchd.in/latest-assets/img/news-main.webp",
+            "href": "https://www.cuchd.in/news/g20-youth-dialogue",
+            "tag": "Leadership",
+            "date": "Nov 16, 2025"
+          },
+          "left": [
+            {
+              "title": "SkillBridge expo showcases 120 prototypes",
+              "date": "Nov 10, 2025",
+              "tag": "Innovation",
+              "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=600&q=80",
+              "href": "https://www.cuchd.in/news/skillbridge"
+            },
+            {
+              "title": "CU basketball team lifts AIU trophy",
+              "date": "Oct 28, 2025",
+              "tag": "Sports",
+              "image": "https://images.unsplash.com/photo-1489286696298-88c0ebcf07aa?auto=format&fit=crop&w=600&q=80",
+              "href": "https://www.cuchd.in/news/aiu-basketball"
+            }
+          ],
+          "right": [
+            {
+              "title": "CU signs MoU with University of California",
+              "date": "Nov 14, 2025",
+              "tag": "Global",
+              "description": "Joint research residencies in clean energy and aviation announced.",
+              "href": "https://www.cuchd.in/news/uc-partnership"
+            },
+            {
+              "title": "400+ companies confirmed for Placement Drive 2025",
+              "date": "Nov 02, 2025",
+              "tag": "Placements",
+              "description": "Microsoft, McKinsey, and BCG headline the dream recruiter list.",
+              "href": "https://www.cuchd.in/news/placement-drive"
+            },
+            {
+              "title": "TEDx Chandigarh University returns in 2025",
+              "date": "Nov 06, 2025",
+              "tag": "Culture",
+              "description": "Eight global speakers decode the theme 'Rebuild Tomorrow'.",
+              "href": "https://www.cuchd.in/news/tedx"
+            }
+          ]
+        },
+        {
+          "id": "virtual-tour",
+          "type": "virtual-tour",
+          "title": "Step inside Chandigarh University virtually",
+          "iframe": "https://iviewd.com/cu2/"
+        }
+      ]
+    },
+    {
+      "slug": "about",
+      "title": "About Chandigarh University",
+      "sections": [
+        {
+          "id": "about-hero",
+          "type": "hero",
+          "eyebrow": "About",
+          "title": "Trailblazing since 2012",
+          "description": "From a single institute to India's fastest-growing multi-disciplinary university, CU empowers learners through innovation, inclusion, and industry partnerships.",
+          "backgroundImage": "https://www.cuchd.in/latest-assets/img/banner-2025-sid-bg.webp",
+          "ctas": [
+            { "label": "Leadership", "href": "https://www.cuchd.in/about/leadership" },
+            { "label": "Milestones", "href": "https://www.cuchd.in/about/milestones" }
+          ]
+        },
+        {
+          "id": "about-richtext",
+          "type": "richtext",
+          "title": "Vision & Mission",
+          "body": [
+            "To deliver affordable global education, foster cutting-edge research, and create societal impact by nurturing entrepreneurs and leaders.",
+            "Our mission is anchored in providing flexible academic pathways, industry-mentored curricula, and a campus culture that celebrates diversity and innovation."
+          ]
+        },
+        {
+          "id": "about-values",
+          "type": "cards-grid",
+          "title": "Institutional Pillars",
+          "cards": [
+            { "title": "Academic Freedom", "description": "Choice-based credit system, minors, and personalized learning plans." },
+            { "title": "Research Impact", "description": "Dedicated seed funds, innovation grants, and incubation for 200+ start-ups." },
+            { "title": "Global Outlook", "description": "400+ partner universities and dual-degree pathways." }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "admissions",
+      "title": "Admissions",
+      "sections": [
+        {
+          "id": "admissions-hero",
+          "type": "hero",
+          "eyebrow": "Admissions",
+          "title": "Your CU journey starts here",
+          "description": "Choose from undergraduate, postgraduate, and doctoral programs with merit scholarships up to 100%.",
+          "backgroundImage": "https://www.cuchd.in/latest-assets/img/banner-2025-akshay-bg.webp",
+          "ctas": [
+            { "label": "Start CUCET 2026", "href": "https://cucet.cuchd.in" },
+            { "label": "Talk to Counsellor", "href": "tel:+1800121288800" }
+          ]
+        },
+        {
+          "id": "admissions-cards",
+          "type": "cards-grid",
+          "title": "Application Steps",
+          "cards": [
+            { "title": "Register", "description": "Create your CUCET profile and select the nearest exam window." },
+            { "title": "Attempt Test", "description": "Choose online or test-center mode. Get instant scores." },
+            { "title": "Claim Scholarship", "description": "Upload documents, lock your program, and confirm admission." }
+          ]
+        },
+        {
+          "id": "admissions-rich",
+          "type": "richtext",
+          "title": "Scholarship Categories",
+          "body": [
+            "CUCET Performance Scholarships",
+            "Sports Excellence Scholarships",
+            "Defense Personnel Ward Scholarships",
+            "Alumni Scholarships"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "apply",
+      "title": "Apply",
+      "sections": [
+        {
+          "id": "apply-hero",
+          "type": "hero",
+          "eyebrow": "CUCET 2026",
+          "title": "Fast-track your application",
+          "description": "It takes less than 10 minutes to pick a test slot, upload documents, and unlock scholarships.",
+          "backgroundImage": "https://www.cuchd.in/latest-assets/img/banner-2025-2.webp",
+          "ctas": [
+            { "label": "Apply Online", "href": "https://cucet.cuchd.in" },
+            { "label": "Check Eligibility", "href": "/admissions" }
+          ]
+        },
+        {
+          "id": "apply-steps",
+          "type": "cards-grid",
+          "title": "What you need",
+          "cards": [
+            { "title": "Academic transcripts", "description": "Class X, XII, or Graduation mark-sheets." },
+            { "title": "Government ID", "description": "Aadhaar/Passport for verification." },
+            { "title": "Passport photo", "description": "Recent color photograph." }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "campus-life",
+      "title": "Campus Life",
+      "sections": [
+        {
+          "id": "campus-hero",
+          "type": "hero",
+          "eyebrow": "Campus Life",
+          "title": "Live, learn, and celebrate",
+          "description": "From 16 dining courts to 8 world-class sports arenas, CU campus is a vibrant city in itself.",
+          "backgroundImage": "https://www.cuchd.in/latest-assets/img/bbuzz-honey-bg.webp"
+        },
+        {
+          "id": "campus-grid",
+          "type": "cards-grid",
+          "title": "Experiences",
+          "cards": [
+            { "title": "Clubs & Fests", "description": "Coding ninjas, Model UN, music collectives, and international cultural nights." },
+            { "title": "Wellness", "description": "24x7 medical center, counseling labs, fitness studios, and yoga domes." },
+            { "title": "Innovation", "description": "Makerspaces, XR studios, drone labs, and SAE racing garage." }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "contact",
+      "title": "Contact",
+      "sections": [
+        {
+          "id": "contact-hero",
+          "type": "hero",
+          "eyebrow": "Contact",
+          "title": "We are here to help",
+          "description": "Reach the admissions helpdesk, hostel wardens, or student services teams.",
+          "backgroundImage": "https://www.cuchd.in/latest-assets/img/banner-2025.webp"
+        },
+        {
+          "id": "contact-grid",
+          "type": "cards-grid",
+          "title": "Key Contacts",
+          "cards": [
+            { "title": "Admissions", "description": "admissions@cuchd.in | +91 99159 99223" },
+            { "title": "International", "description": "international@cuchd.in | +91 82880 09777" },
+            { "title": "Hostel", "description": "hostel@cuchd.in | +91 95921 70999" }
+          ]
+        },
+        {
+          "id": "contact-rich",
+          "type": "richtext",
+          "title": "Visit Us",
+          "body": [
+            "Chandigarh University, NH-05 Chandigarh-Ludhiana Highway, Mohali - 140413",
+            "Working hours: 9 AM - 6 PM (Mon - Sat)"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hostel",
+      "title": "Hostel",
+      "sections": [
+        {
+          "id": "hostel-hero",
+          "type": "hero",
+          "eyebrow": "Residences",
+          "title": "Purpose-built hostels for 20,000+ students",
+          "description": "AC/Non-AC rooms, biometric access, in-house laundry, and round-the-clock pastoral care.",
+          "backgroundImage": "https://www.cuchd.in/latest-assets/img/hostel.webp"
+        },
+        {
+          "id": "hostel-cards",
+          "type": "cards-grid",
+          "title": "Facilities",
+          "cards": [
+            { "title": "Smart access", "description": "RFID-secured gates and AI-enabled attendance." },
+            { "title": "Dining", "description": "12 hygienic mess halls with curated menus." },
+            { "title": "Pastoral care", "description": "Resident counselors, mentors, and emergency medical teams." }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "placements",
+      "title": "Placements",
+      "sections": [
+        {
+          "id": "placements-hero",
+          "type": "hero",
+          "eyebrow": "Placements",
+          "title": "Smart placements ecosystem",
+          "description": "Top-notch career mentoring, industry-aligned curriculum, and 1100+ hiring partners.",
+          "backgroundImage": "https://www.cuchd.in/latest-assets/img/top-placement.webp"
+        },
+        {
+          "id": "placements-stats",
+          "type": "stats",
+          "title": "2024 Outcomes",
+          "items": [
+            { "label": "Total offers", "value": "11000", "suffix": "+" },
+            { "label": "Highest package", "value": "54.75", "suffix": " LPA" },
+            { "label": "Companies visited", "value": "1500", "suffix": "+" }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "research",
+      "title": "Research",
+      "sections": [
+        {
+          "id": "research-hero",
+          "type": "hero",
+          "eyebrow": "Research",
+          "title": "Innovating for impact",
+          "description": "20+ centres of excellence and 200 research groups tackle the grand challenges of our time.",
+          "backgroundImage": "https://www.cuchd.in/latest-assets/img/research-inset-bg.webp"
+        },
+        {
+          "id": "research-grid",
+          "type": "cards-grid",
+          "title": "Focus Areas",
+          "cards": [
+            { "title": "AI & Robotics", "description": "Explainable AI, computer vision, and edge robotics projects." },
+            { "title": "Sustainable Engineering", "description": "EV drivetrains, hydrogen fuels, carbon capture." },
+            { "title": "Healthcare", "description": "Bioinformatics, medical devices, AR-assisted surgeries." }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "international",
+      "title": "International",
+      "sections": [
+        {
+          "id": "intl-hero",
+          "type": "hero",
+          "eyebrow": "International",
+          "title": "Gateway to the world",
+          "description": "Dedicated International Relations Office enabling global credit transfers, exchange semesters, and overseas internships.",
+          "backgroundImage": "https://www.cuchd.in/latest-assets/img/international.webp"
+        },
+        {
+          "id": "intl-rich",
+          "type": "richtext",
+          "title": "Services",
+          "body": [
+            "Visa and FRRO support",
+            "Airport pickups",
+            "Language labs and buddy programs",
+            "Cultural assimilation workshops"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "news-events",
+      "title": "News & Events",
+      "sections": [
+        {
+          "id": "news-hero",
+          "type": "hero",
+          "eyebrow": "Happenings",
+          "title": "What is new at CU",
+          "description": "Daily coverage of research breakthroughs, cultural festivals, placement drives, and leadership conclaves.",
+          "backgroundImage": "https://www.cuchd.in/latest-assets/img/news-main.webp"
+        },
+        {
+          "id": "news-list",
+          "type": "news",
+          "title": "Spotlight",
+          "featured": {
+            "title": "Aero design team qualifies for SAE International finals",
+            "description": "Interdisciplinary student team builds India's lightest solar-powered UAV.",
+            "image": "https://www.cuchd.in/latest-assets/img/news-main.webp",
+            "href": "https://www.cuchd.in/news/sae-finals"
+          },
+          "stories": [
+            { "title": "TEDx Chandigarh University returns in 2025", "date": "Nov 6, 2025", "href": "https://www.cuchd.in/news/tedx" },
+            { "title": "SkillBridge expo showcases 120 prototypes", "date": "Oct 28, 2025", "href": "https://www.cuchd.in/news/skillbridge" },
+            { "title": "CU signs 5 new MoUs in Europe", "date": "Oct 19, 2025", "href": "https://www.cuchd.in/news/europe-mou" }
+          ]
+        }
+      ]
+    }
+  ],
+  "collections": {
+    "courses": [
+      {
+        "slug": "b-tech-computer-science",
+        "title": "B.Tech Computer Science & Engineering",
+        "overview": "Modern 4-year curriculum with specializations in AI, Cyber Security, Full Stack, and Cloud DevOps.",
+        "highlights": [
+          "NBA accredited program with Choice-Based Credit System",
+          "Co-created with Microsoft, IBM, and Virtusa mentors",
+          "Access to NVIDIA DGX powered AI Research Centre"
+        ],
+        "outcomes": [
+          "Product Engineer",
+          "Data Scientist",
+          "Cloud Reliability Engineer"
+        ],
+        "heroImage": "https://www.cuchd.in/latest-assets/img/courses/cse.webp"
+      },
+      {
+        "slug": "bsc-hospitality",
+        "title": "B.Sc. Hospitality & Hotel Administration",
+        "overview": "Globally benchmarked hospitality degree with Michelin-star chef residencies and in-campus boutique hotel.",
+        "highlights": [
+          "Learning inside 14 training kitchens & studios",
+          "International internships across Middle East & Europe",
+          "WSET, AHLEI, and City&Guilds certifications"
+        ],
+        "outcomes": [
+          "Food & Beverage Manager",
+          "Banquet Curator",
+          "Hospitality Consultant"
+        ],
+        "heroImage": "https://www.cuchd.in/latest-assets/img/courses/hospitality.webp"
+      },
+      {
+        "slug": "mba-business-analytics",
+        "title": "MBA Business Analytics",
+        "overview": "STEM-designated MBA focused on analytics strategy, fintech, and digital transformation.",
+        "highlights": [
+          "Dual mentorship from Deloitte & KPMG leaders",
+          "Paid capstone projects with Fortune 500 partners",
+          "Tableau, Power BI, AWS, and Snowflake certifications"
+        ],
+        "outcomes": [
+          "Analytics Consultant",
+          "Product Strategist",
+          "Growth Manager"
+        ],
+        "heroImage": "https://www.cuchd.in/latest-assets/img/courses/mba.webp"
+      }
+    ],
+    "departments": [
+      {
+        "slug": "engineering",
+        "title": "University Institute of Engineering",
+        "overview": "NIRF Top-15 engineering faculty with 30+ undergraduate and postgraduate specializations.",
+        "focusAreas": [
+          "Autonomous mobility",
+          "Space technologies",
+          "Sustainable infrastructure"
+        ],
+        "resources": [
+          "12 industrial research labs",
+          "Formula Bharat racing garage",
+          "ASME, IEEE, SAE student chapters"
+        ],
+        "heroImage": "https://www.cuchd.in/latest-assets/img/departments/engineering.webp"
+      },
+      {
+        "slug": "distance-education",
+        "title": "Centre for Distance & Online Learning",
+        "overview": "UGC-entitled online degrees with live interactive sessions and AI-powered learning analytics.",
+        "focusAreas": [
+          "Business & Commerce",
+          "Computer Applications",
+          "Liberal Arts"
+        ],
+        "resources": [
+          "Virtual labs",
+          "Personal success coaches",
+          "Placement bootcamps"
+        ],
+        "heroImage": "https://www.cuchd.in/latest-assets/img/departments/distance.webp"
+      }
+    ]
+  }
+}
