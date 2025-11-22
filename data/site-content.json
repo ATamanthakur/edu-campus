@@ -278,19 +278,19 @@
             "Built-in interview pods & Deloitte-certified finishing school",
             "Global internship exchanges in 30+ countries"
           ],
-          "media": "https://www.cuchd.in/latest-assets/img/top-students.webp"
+          "media": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=800&q=80"
         },
         {
           "id": "companies",
           "type": "logos",
           "title": "Top-Tier Companies in Our Placement Network",
           "logos": [
-            { "name": "Microsoft", "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" },
-            { "name": "Amazon", "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" },
-            { "name": "Google", "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" },
-            { "name": "Deloitte", "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Deloitte_logo.svg" },
-            { "name": "IBM", "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" },
-            { "name": "Siemens", "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Siemens-logo.svg" }
+            { "name": "Microsoft", "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png" },
+            { "name": "Apple", "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png" },
+            { "name": "Google", "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/512px-Google_2015_logo.svg.png" },
+            { "name": "Intel", "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Intel_logo_%282006-2020%29.svg/512px-Intel_logo_%282006-2020%29.svg.png" },
+            { "name": "IBM", "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/512px-IBM_logo.svg.png" },
+            { "name": "Oracle", "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/512px-Oracle_logo.svg.png" }
           ]
         },
         {
@@ -299,7 +299,7 @@
           "eyebrow": "Admissions Helpdesk",
           "title": "Need clarity on SCE phases or scholarships?",
           "description": "Our counsellors are available 9 AM – 9 PM to help you pick the right program, understand exam phases, and block a hostel room in advance.",
-          "image": "https://www.cuchd.in/latest-assets/img/banner-2025-akshay-bg.webp",
+          "image": "",
           "cta": { "label": "Book a call", "href": "tel:+9997155111" },
           "stats": [
             { "label": "Live counsellors", "value": "120+" },

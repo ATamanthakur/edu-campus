@@ -330,7 +330,7 @@ function HeroSection(section: Extract<Section, { type: "hero" }>) {
 function HeroLeadForm({ form }: { form: HeroLeadForm }) {
   return (
     <form
-      action={form.action ?? "https://cucet.cuchd.in"}
+      action={form.action ?? ""}
       className="rounded-[28px] border border-white/10 bg-white/95 p-6 text-slate-900 shadow-[-20px_20px_60px_rgba(15,23,42,0.35)] mt-10 w-100"
     >
       <h3 className="text-xl font-semibold text-slate-900">{form.title}</h3>
